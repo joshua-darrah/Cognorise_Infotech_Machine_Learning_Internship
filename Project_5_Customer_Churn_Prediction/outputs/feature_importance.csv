@@ -1,0 +1,21 @@
+,importance
+cat__TenureGroup_0-6,1.131643782705483
+cat__Contract_Month-to-month,0.7936006606340672
+cat__Contract_Two year,0.7418192312322963
+cat__TenureGroup_13-24,0.5760153224701511
+cat__TenureGroup_25-48,0.4845355150418828
+cat__PaymentMethod_Electronic check,0.3947447315362084
+cat__PaymentMethod_Mailed check,0.3150676321686301
+num__ActiveServices,0.3061887872665096
+cat__TechSupport_Yes,0.20473076082937022
+cat__TenureGroup_49-72,0.20255768855127798
+cat__TechSupport_No,0.17189527042701666
+cat__InternetService_Fiber optic,0.1678412878940677
+cat__InternetService_DSL,0.16181746040230321
+num__SupportTickets,0.13320512740339807
+num__tenure,0.12874370175505656
+cat__StreamingTV_No internet service,0.12340951924864456
+num__MonthlyCharges,0.11259769553959406
+cat__OnlineBackup_No,0.1096084582200643
+cat__StreamingTV_Yes,0.1043950469013261
+cat__TenureGroup_7-12,0.09862925295547614

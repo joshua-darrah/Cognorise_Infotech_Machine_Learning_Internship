@@ -1,0 +1,701 @@
+gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,SupportTickets,ActiveServices,SeniorCitizenLabel,TenureGroup,InactivityRisk,ActualChurn,ChurnProbability,RiskSegment
+Male,0,No,No,53,Yes,Yes,No,Yes,Yes,Yes,Yes,No internet service,Yes,Month-to-month,Yes,Electronic check,114.0,1,5,No,49-72,0,0,0.5427675379852489,At Risk
+Male,0,No,No,68,Yes,No phone service,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,No,Mailed check,53.84,2,5,No,49-72,0,0,0.43551395303540874,At Risk
+Female,0,Yes,No,53,Yes,Yes,Fiber optic,Yes,No,Yes,,No internet service,No internet service,Month-to-month,No,Bank transfer,50.0,3,1,No,49-72,0,0,0.5676540616978484,At Risk
+Female,0,No,No,67,Yes,No,Fiber optic,No internet service,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer,61.83,1,4,No,49-72,0,0,0.15849582403952167,Active
+Female,0,Yes,No,45,Yes,Yes,DSL,No internet service,Yes,Yes,No,Yes,No internet service,Month-to-month,No,Electronic check,80.6,0,2,No,25-48,0,0,0.6299868712712716,High Risk
+Male,0,Yes,No,48,No,Yes,Fiber optic,Yes,Yes,No internet service,Yes,No,Yes,Two year,Yes,Bank transfer,40.18,1,1,No,25-48,0,0,0.22378505626526612,Active
+Male,1,No,No,17,No,Yes,DSL,No,Yes,Yes,Yes,No,Yes,Month-to-month,No,Credit card,80.85,1,2,Yes,13-24,0,0,0.5780296642084578,At Risk
+Female,1,Yes,No,37,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,One year,Yes,Credit card,42.54,0,1,Yes,25-48,0,0,0.4525679314767897,At Risk
+Female,1,No,Yes,8,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,No internet service,Month-to-month,No,Mailed check,94.71,0,5,Yes,7-12,0,0,0.62602979117864,High Risk
+Female,0,No,No,11,Yes,Yes,DSL,No,Yes,No internet service,Yes,Yes,Yes,One year,No,Credit card,54.3,2,1,No,7-12,0,0,0.5340854879893675,At Risk
+Male,0,Yes,No,12,Yes,No,Fiber optic,No internet service,Yes,Yes,No,No,No internet service,Month-to-month,No,Electronic check,81.84,1,5,No,7-12,0,0,0.7607748280010705,High Risk
+Male,0,No,No,46,Yes,Yes,Fiber optic,Yes,No internet service,No,Yes,Yes,No,Month-to-month,Yes,Mailed check,66.57,1,3,No,25-48,0,1,0.4697431534059652,At Risk
+Female,1,Yes,No,25,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Month-to-month,Yes,Bank transfer,141.56,3,5,Yes,25-48,0,1,0.5601629210536808,At Risk
+Female,0,No,Yes,11,Yes,Yes,No,No internet service,No,No,Yes,Yes,Yes,One year,No,Electronic check,48.76,0,3,No,7-12,0,0,0.4761424268103958,At Risk
+Male,1,Yes,No,5,Yes,No,DSL,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,No,Electronic check,105.53,0,4,Yes,0-6,1,1,0.8728419722219775,High Risk
+Female,0,No,No,19,No,Yes,DSL,Yes,No,No internet service,Yes,Yes,No,Month-to-month,Yes,Mailed check,86.08,0,3,No,13-24,0,0,0.38883027012997806,At Risk
+Male,0,No,Yes,49,Yes,Yes,DSL,No,No,Yes,Yes,No,No internet service,Month-to-month,Yes,Electronic check,63.97,1,2,No,49-72,0,0,0.5429003308632291,At Risk
+Male,0,No,Yes,19,Yes,No,Fiber optic,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer,58.38,1,2,No,13-24,0,0,0.508767269291168,At Risk
+Male,0,No,Yes,31,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,Two year,No,Bank transfer,21.09,0,1,No,25-48,0,0,0.14393149233709018,Active
+Male,0,No,No,23,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Two year,No,Credit card,40.72,2,6,No,13-24,0,0,0.10541912773413412,Active
+Female,0,Yes,No,65,Yes,No phone service,No,Yes,Yes,No internet service,No,Yes,No,Two year,No,Credit card,91.66,3,5,No,49-72,0,0,0.24757056157121962,Active
+Female,0,No,No,49,Yes,No,Fiber optic,Yes,No internet service,No,Yes,Yes,Yes,Month-to-month,No,Bank transfer,90.75,0,1,No,49-72,0,0,0.6840441650791996,High Risk
+Male,0,Yes,Yes,30,No,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,Month-to-month,No,Credit card,66.67,2,1,No,25-48,0,0,0.6334867835888442,High Risk
+Male,0,No,No,47,Yes,No,No,No,No,Yes,Yes,Yes,No,One year,No,Credit card,87.79,1,2,No,25-48,0,0,0.2672287710109655,Active
+Male,0,Yes,Yes,10,Yes,No,DSL,Yes,No,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,38.88,0,6,No,7-12,0,0,0.4601223076176923,At Risk
+Male,0,Yes,No,4,Yes,Yes,Fiber optic,No,No internet service,No,Yes,No,Yes,Month-to-month,No,Bank transfer,125.85,1,6,No,0-6,1,1,0.7662326927311183,High Risk
+Female,0,No,Yes,15,Yes,No,DSL,Yes,No internet service,No,Yes,Yes,No,Month-to-month,No,Mailed check,93.93,1,4,No,13-24,0,0,0.36933150002225124,At Risk
+Female,0,Yes,No,25,Yes,No,DSL,No,Yes,No internet service,Yes,No,Yes,Two year,Yes,Mailed check,73.11,2,2,No,25-48,0,0,0.1398126103862753,Active
+Male,0,No,No,13,Yes,Yes,DSL,Yes,Yes,No internet service,No,No,Yes,Month-to-month,No,Bank transfer,41.64,1,3,No,13-24,0,0,0.5312174027424681,At Risk
+Male,0,No,No,57,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,Yes,Month-to-month,No,Electronic check,70.21,0,2,No,49-72,0,0,0.6448639411185713,High Risk
+Female,0,No,No,40,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,No internet service,Two year,No,Mailed check,113.88,3,1,No,25-48,0,0,0.21849902062306312,Active
+Male,0,Yes,No,44,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Credit card,61.76,2,1,No,25-48,0,1,0.5590138537929773,At Risk
+Female,0,Yes,No,10,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Month-to-month,No,Electronic check,105.68,0,2,No,7-12,0,0,0.8269260596664462,High Risk
+Male,0,No,Yes,47,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,No,Two year,Yes,Bank transfer,122.35,0,5,No,25-48,0,0,0.1769725055828751,Active
+Male,0,No,No,10,Yes,No,No,No,No,No,Yes,No,No,Two year,No,Credit card,81.82,3,3,No,7-12,0,0,0.2994467257620225,Active
+Female,0,No,No,67,Yes,No,DSL,Yes,No,No internet service,No,Yes,Yes,Month-to-month,No,Credit card,70.33,0,1,No,49-72,0,1,0.6363356637745985,High Risk
+Female,0,No,Yes,13,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,One year,No,Electronic check,45.14,1,1,No,13-24,0,1,0.5106846765694146,At Risk
+Male,0,Yes,No,48,Yes,No,DSL,No internet service,No,No internet service,Yes,No,No,,Yes,Mailed check,79.66,0,5,No,25-48,0,0,0.2310447231920547,Active
+Female,0,Yes,No,70,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,Two year,Yes,Bank transfer,65.52,0,5,No,49-72,0,0,0.1466937924922004,Active
+Female,0,Yes,No,38,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer,92.83,1,5,No,25-48,0,0,0.371627781161865,At Risk
+Male,0,Yes,No,53,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,85.25,2,4,No,49-72,0,0,0.4343889033784594,At Risk
+Female,0,No,No,69,Yes,No,Fiber optic,No internet service,Yes,Yes,No,No internet service,Yes,One year,Yes,Electronic check,63.12,1,3,No,49-72,0,0,0.47464208577669226,At Risk
+Male,0,No,No,33,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,No,Credit card,50.82,3,5,No,25-48,0,0,0.3868654294989704,At Risk
+Female,0,No,Yes,14,No,Yes,DSL,Yes,Yes,Yes,Yes,No internet service,Yes,Two year,Yes,Credit card,126.21,2,4,No,13-24,0,0,0.1530027326337811,Active
+Female,0,No,Yes,27,Yes,No,Fiber optic,Yes,No,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer,68.52,2,5,No,25-48,0,1,0.48299482690290274,At Risk
+Male,0,No,No,3,Yes,Yes,Fiber optic,No internet service,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,78.41,3,3,No,0-6,1,0,0.923688786604218,High Risk
+Female,0,No,Yes,0,Yes,No,Fiber optic,No internet service,Yes,No,No,No,Yes,Month-to-month,No,Mailed check,53.81,1,4,No,0-6,0,1,0.8472140660736655,High Risk
+Female,0,Yes,Yes,63,Yes,No,DSL,Yes,No,No,Yes,No internet service,Yes,Month-to-month,No,Electronic check,112.94,1,1,No,49-72,0,1,0.6062513955875756,High Risk
+Male,0,Yes,No,14,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,Two year,Yes,Bank transfer,28.38,2,4,No,13-24,0,1,0.1032369189743754,Active
+Female,0,No,Yes,58,Yes,No,Fiber optic,Yes,No internet service,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,20.0,1,5,No,49-72,0,0,0.500501982832415,At Risk
+Female,0,No,Yes,4,Yes,Yes,DSL,Yes,No,No internet service,Yes,Yes,Yes,Two year,Yes,Bank transfer,51.83,1,1,No,0-6,0,0,0.5619967670892559,At Risk
+Male,0,No,Yes,10,Yes,No,No,No,No,No,No,No internet service,Yes,One year,Yes,Electronic check,20.0,0,4,No,7-12,0,0,0.4152334734274898,At Risk
+Female,0,No,No,19,Yes,No phone service,DSL,No,Yes,Yes,Yes,Yes,No,Two year,No,Electronic check,117.97,6,1,No,13-24,0,1,0.44804402581390906,At Risk
+Male,0,No,No,35,Yes,No,Fiber optic,Yes,No,No,No,No internet service,Yes,Month-to-month,No,Credit card,56.39,0,5,No,25-48,0,1,0.44001089197990645,At Risk
+Female,0,No,Yes,48,Yes,Yes,No,Yes,No,No,Yes,No,No internet service,One year,Yes,Electronic check,40.33,0,3,No,25-48,0,1,0.24408447835375194,Active
+Female,0,Yes,Yes,21,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,No internet service,Two year,No,Credit card,54.73,1,6,No,13-24,0,0,0.08535699999202288,Active
+Male,0,Yes,No,37,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Credit card,119.51,2,5,No,25-48,0,0,0.4251892432439237,At Risk
+Female,0,Yes,No,72,Yes,No,Fiber optic,Yes,No internet service,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer,62.79,0,4,No,49-72,0,0,0.4590985264825083,At Risk
+Female,0,Yes,No,15,Yes,No,DSL,No,No,No,Yes,Yes,No,Two year,No,Electronic check,48.42,1,5,No,13-24,0,0,0.11342428695891536,Active
+Male,0,No,Yes,27,No,Yes,Fiber optic,No,Yes,No internet service,Yes,No,No,Month-to-month,Yes,Mailed check,74.43,0,4,No,25-48,0,1,0.3869608234947075,At Risk
+Male,0,No,No,26,Yes,No,DSL,No,Yes,Yes,Yes,No,No,Month-to-month,No,Electronic check,66.66,1,1,No,25-48,0,0,0.5921678240447198,At Risk
+Female,0,Yes,Yes,23,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Mailed check,69.45,0,6,No,13-24,0,0,0.24188242296237478,Active
+Male,0,Yes,No,2,Yes,No,No,No,No,Yes,Yes,No,No internet service,Month-to-month,No,Mailed check,79.73,1,4,No,0-6,1,0,0.6466961003800163,High Risk
+Female,0,No,No,0,Yes,Yes,DSL,No,Yes,Yes,Yes,No,Yes,,No,Credit card,88.81,0,5,No,0-6,1,0,0.6771086172980959,High Risk
+Female,1,No,No,41,Yes,No phone service,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,32.42,1,3,Yes,25-48,0,1,0.6257996156843345,High Risk
+Male,1,Yes,No,35,Yes,Yes,Fiber optic,No internet service,Yes,No,Yes,Yes,No internet service,One year,Yes,Electronic check,64.59,5,2,Yes,25-48,0,0,0.656430708125374,High Risk
+Male,0,No,No,6,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,No,One year,No,Credit card,99.47,0,4,No,0-6,1,0,0.6272633572946418,High Risk
+Male,0,No,No,25,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,44.41,1,1,No,25-48,0,1,0.7430590038157806,High Risk
+Male,0,No,No,67,No,Yes,No,Yes,No,Yes,Yes,No internet service,No,One year,Yes,Bank transfer,40.5,0,4,No,49-72,0,1,0.16353282744408382,Active
+Female,1,No,No,60,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,126.6,1,5,Yes,49-72,0,0,0.6002148695232682,High Risk
+Female,0,Yes,No,67,Yes,Yes,No,Yes,No internet service,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,51.92,0,1,No,49-72,0,0,0.6111775520701005,High Risk
+Female,0,No,No,10,Yes,No,Fiber optic,Yes,No internet service,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer,70.82,1,4,No,7-12,0,1,0.7303737746037031,High Risk
+Male,0,No,No,16,Yes,No,DSL,Yes,Yes,Yes,No,No,Yes,Month-to-month,Yes,Mailed check,62.55,4,2,No,13-24,0,1,0.5852511665562633,At Risk
+Male,0,No,Yes,37,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,No,Mailed check,61.74,0,3,No,25-48,0,1,0.5229643501019764,At Risk
+Male,1,No,No,68,Yes,No,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,No,Bank transfer,21.9,1,1,Yes,49-72,0,0,0.30392346526273806,At Risk
+Female,0,Yes,Yes,1,No,No phone service,DSL,Yes,No,Yes,No,No,Yes,Month-to-month,Yes,Mailed check,66.73,1,4,No,0-6,0,0,0.7800988134315039,High Risk
+Female,1,Yes,Yes,5,Yes,No,DSL,No,No internet service,Yes,Yes,Yes,No internet service,Two year,No,Credit card,94.89,0,5,Yes,0-6,1,0,0.37106251896521714,At Risk
+Male,1,No,No,20,Yes,No,Fiber optic,No internet service,No internet service,Yes,No,Yes,No,Month-to-month,No,Credit card,88.17,0,6,Yes,13-24,0,1,0.578548412136668,At Risk
+Male,0,Yes,No,7,No,Yes,Fiber optic,No,No,Yes,Yes,No,No internet service,Month-to-month,No,Electronic check,57.19,1,5,No,7-12,0,1,0.6398764558620548,High Risk
+Male,1,No,No,72,Yes,Yes,Fiber optic,No,No internet service,Yes,Yes,No internet service,No,One year,No,Bank transfer,58.16,1,6,Yes,49-72,0,0,0.21373031886203053,Active
+Female,0,Yes,No,20,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,No internet service,Month-to-month,No,Bank transfer,20.0,3,6,No,13-24,0,0,0.31020565298908664,At Risk
+Male,1,No,No,65,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,94.65,2,5,Yes,49-72,0,0,0.7376181474800114,High Risk
+Male,0,No,No,14,Yes,Yes,DSL,Yes,No,No internet service,No,Yes,No,One year,Yes,Electronic check,68.11,2,2,No,13-24,0,0,0.5142811550927843,At Risk
+Male,0,No,No,42,No,No,Fiber optic,No,No,No,Yes,No,No,,Yes,Electronic check,26.27,2,6,No,25-48,0,0,0.43257660057687,At Risk
+Male,0,No,No,47,Yes,No,DSL,Yes,Yes,No internet service,Yes,Yes,No,Two year,No,Credit card,88.88,1,3,No,25-48,0,0,0.1681255476614372,Active
+Male,0,Yes,No,46,Yes,No,DSL,No,No,Yes,No,Yes,No,Month-to-month,Yes,Mailed check,76.71,0,4,No,25-48,0,0,0.30611841386827243,At Risk
+Male,0,Yes,Yes,44,Yes,Yes,DSL,No,Yes,No internet service,Yes,No,No,Two year,Yes,Credit card,70.0,2,2,No,25-48,0,0,0.1424889957218407,Active
+Female,0,No,No,60,Yes,Yes,DSL,No,Yes,No internet service,Yes,Yes,No internet service,Month-to-month,Yes,Bank transfer,78.75,1,1,No,49-72,0,0,0.5784474286094128,At Risk
+Female,0,No,No,70,Yes,No phone service,Fiber optic,No internet service,No internet service,Yes,Yes,No,No internet service,Two year,Yes,Electronic check,33.07,2,3,No,49-72,0,0,0.28536374078930976,Active
+Female,0,No,No,54,No,Yes,Fiber optic,Yes,Yes,No internet service,No,Yes,No internet service,One year,Yes,Credit card,64.11,0,3,No,49-72,0,0,0.47233720974914456,At Risk
+Male,0,No,No,57,Yes,No phone service,No,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,66.12,0,3,No,49-72,0,1,0.5884283799798463,At Risk
+Male,0,Yes,No,69,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card,37.41,1,2,No,49-72,0,0,0.5808183248726948,At Risk
+Female,0,No,No,24,Yes,Yes,DSL,No,No,No internet service,Yes,No,Yes,,Yes,Bank transfer,45.45,1,6,No,13-24,0,0,0.2518001813564452,Active
+Male,1,Yes,No,66,No,Yes,Fiber optic,No internet service,No internet service,No,Yes,No,No,Two year,Yes,Bank transfer,85.11,1,1,Yes,49-72,0,0,0.35542339908672704,At Risk
+Female,0,Yes,No,45,No,Yes,DSL,Yes,No,Yes,Yes,Yes,No,Month-to-month,No,Electronic check,60.45,3,6,No,25-48,0,1,0.4061172017558535,At Risk
+Female,0,No,Yes,11,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer,140.8,1,5,No,7-12,0,0,0.3986188629890468,At Risk
+Male,0,Yes,No,48,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer,81.73,1,2,No,25-48,0,0,0.42665331536812084,At Risk
+Male,0,Yes,No,0,Yes,No,Fiber optic,No,No internet service,Yes,No,No,Yes,Month-to-month,No,Electronic check,,2,3,No,0-6,0,1,0.936483205093591,High Risk
+Male,0,No,Yes,32,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,No internet service,Month-to-month,No,Electronic check,47.98,2,5,No,25-48,0,0,0.5168691202718977,At Risk
+Female,0,No,No,27,Yes,Yes,No,Yes,No,Yes,Yes,No internet service,No,One year,Yes,Electronic check,120.46,1,1,No,25-48,0,0,0.4206458516413691,At Risk
+Female,0,Yes,Yes,18,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,No,Month-to-month,No,Electronic check,67.42,3,4,No,13-24,0,0,0.5573411674814719,At Risk
+Male,0,No,Yes,11,Yes,Yes,No,No,No internet service,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,103.73,0,6,No,7-12,0,0,0.7246346493617127,High Risk
+Male,0,No,Yes,9,Yes,Yes,No,Yes,No,No,No,Yes,No,One year,No,Electronic check,,2,1,No,7-12,0,0,0.7185111204972011,High Risk
+Female,0,Yes,No,4,Yes,No phone service,Fiber optic,Yes,Yes,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,63.84,1,6,No,0-6,0,1,0.8238581364482697,High Risk
+Female,0,No,No,58,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,84.27,0,5,No,49-72,0,1,0.5250119742449768,At Risk
+Male,1,No,Yes,46,Yes,Yes,DSL,Yes,Yes,Yes,No,No internet service,No,One year,Yes,Credit card,86.43,0,1,Yes,25-48,0,0,0.3769080799595189,At Risk
+Female,0,No,No,66,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Credit card,90.07,2,1,No,49-72,0,0,0.7256224404150818,High Risk
+Male,0,Yes,No,61,Yes,Yes,DSL,No,No internet service,No,,No,Yes,One year,No,Bank transfer,26.15,1,1,No,49-72,0,0,0.27460316735373713,Active
+Male,0,No,No,3,No,Yes,Fiber optic,No,No internet service,Yes,Yes,No,No,Month-to-month,No,Credit card,84.3,2,2,No,0-6,1,1,0.8762463885122713,High Risk
+Male,0,No,No,14,Yes,No,DSL,Yes,Yes,No internet service,Yes,Yes,No,One year,Yes,Credit card,73.85,0,2,No,13-24,0,0,0.2993046771937199,Active
+Female,0,Yes,Yes,66,Yes,Yes,Fiber optic,No,Yes,No internet service,Yes,No,Yes,Month-to-month,Yes,Electronic check,80.28,1,6,No,49-72,0,0,0.4732276517343705,At Risk
+Male,0,Yes,No,63,Yes,Yes,DSL,No,No,No,Yes,Yes,No,Month-to-month,No,Bank transfer,76.5,0,4,No,49-72,0,0,0.3344068588411682,At Risk
+Male,0,No,No,14,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer,56.77,0,6,No,13-24,0,0,0.18987854844848717,Active
+Male,0,No,No,3,No,Yes,No,Yes,Yes,No,No,No,Yes,Month-to-month,No,Electronic check,52.04,1,6,No,0-6,0,0,0.8850229904232417,High Risk
+Female,1,Yes,No,59,Yes,Yes,No,Yes,No internet service,Yes,Yes,No,No,Month-to-month,Yes,Credit card,107.97,2,4,Yes,49-72,0,0,0.5595521633543297,At Risk
+Male,1,No,No,54,Yes,Yes,DSL,Yes,Yes,No,,No,No,One year,Yes,Electronic check,104.9,2,5,Yes,49-72,0,0,0.4201913559041616,At Risk
+Female,0,No,No,56,Yes,Yes,No,Yes,Yes,No internet service,Yes,Yes,No,One year,Yes,Credit card,90.7,0,3,No,49-72,0,0,0.32015175235185145,At Risk
+Female,0,No,Yes,71,Yes,Yes,DSL,Yes,No internet service,Yes,No,Yes,Yes,Month-to-month,Yes,Mailed check,62.47,1,1,No,49-72,0,0,0.5643796842122016,At Risk
+Male,0,Yes,No,72,No,No,No,Yes,Yes,No,No,No internet service,No internet service,Two year,Yes,Electronic check,54.7,2,3,No,49-72,0,0,0.3008335367475786,At Risk
+Male,0,No,Yes,55,Yes,Yes,No,No,Yes,Yes,No,No internet service,Yes,Month-to-month,Yes,Electronic check,116.47,0,1,No,49-72,0,1,0.7236751473288932,High Risk
+Male,0,Yes,No,35,Yes,Yes,DSL,No,No,Yes,Yes,Yes,No,Two year,Yes,Electronic check,66.86,1,1,No,25-48,0,0,0.2078821898725347,Active
+Female,0,Yes,No,54,Yes,No phone service,Fiber optic,Yes,Yes,Yes,No,Yes,No internet service,One year,No,Bank transfer,46.73,2,5,No,49-72,0,1,0.3384941692760752,At Risk
+Male,0,No,No,35,Yes,No,Fiber optic,No internet service,No internet service,Yes,Yes,Yes,Yes,Month-to-month,No,Bank transfer,84.63,1,5,No,25-48,0,0,0.4843171704753407,At Risk
+Male,0,Yes,No,18,Yes,Yes,Fiber optic,No,Yes,No internet service,Yes,No internet service,No,Two year,Yes,Mailed check,105.68,3,2,No,13-24,0,0,0.19496424063661882,Active
+Male,0,Yes,Yes,59,Yes,No phone service,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,One year,No,Bank transfer,76.88,1,3,No,49-72,0,0,0.30310332872159806,At Risk
+Female,0,No,Yes,5,Yes,Yes,No,No,Yes,No internet service,No,No internet service,Yes,Two year,No,Credit card,79.06,1,3,No,0-6,1,0,0.5184937478478887,At Risk
+Male,0,Yes,No,62,Yes,Yes,No,No,Yes,Yes,No,No internet service,Yes,One year,No,Electronic check,20.0,1,1,No,49-72,0,0,0.42490808180461354,At Risk
+Female,1,Yes,Yes,46,Yes,No,DSL,Yes,No,Yes,Yes,No internet service,Yes,One year,No,Credit card,92.28,2,3,Yes,25-48,0,0,0.24017226482490744,Active
+Male,0,Yes,No,53,Yes,Yes,DSL,Yes,Yes,No,No,No internet service,No,Month-to-month,No,Credit card,73.04,1,2,No,49-72,0,0,0.5600255556244617,At Risk
+Male,0,Yes,No,16,Yes,No,No,No internet service,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,92.19,3,5,No,13-24,0,0,0.5910401036125327,At Risk
+Female,0,Yes,Yes,71,Yes,No phone service,DSL,Yes,No,No,Yes,No,No internet service,One year,Yes,Bank transfer,,2,5,No,49-72,0,0,0.1697324814979512,Active
+Female,0,Yes,No,63,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,One year,No,Electronic check,24.77,0,2,No,49-72,0,0,0.4032116248751162,At Risk
+Male,0,No,No,63,Yes,Yes,DSL,Yes,No,Yes,Yes,No,Yes,One year,No,Mailed check,92.92,0,6,No,49-72,0,0,0.12004851334693699,Active
+Male,0,No,Yes,37,Yes,No,No,Yes,Yes,No internet service,No,No,No,Two year,Yes,Bank transfer,95.79,1,1,No,25-48,0,0,0.28529288727073476,Active
+Female,0,Yes,No,3,Yes,No,DSL,Yes,No internet service,No,Yes,Yes,Yes,Month-to-month,No,Bank transfer,130.42,0,4,No,0-6,1,0,0.7838472339812745,High Risk
+Male,0,Yes,Yes,59,Yes,No,No,No internet service,No internet service,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer,87.39,0,5,No,49-72,0,0,0.48004777460119763,At Risk
+Male,0,No,No,20,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card,81.65,2,6,No,13-24,0,0,0.23895099597014985,Active
+Female,0,Yes,Yes,0,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,Yes,One year,Yes,Credit card,141.4,1,6,No,0-6,1,1,0.6959686372554231,High Risk
+Female,1,No,No,10,Yes,Yes,Fiber optic,No internet service,No,Yes,,No,No,One year,No,Credit card,56.38,1,1,Yes,7-12,0,0,0.5809355829557193,At Risk
+Male,0,No,No,57,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,No,Mailed check,39.7,0,4,No,49-72,0,0,0.08416087741778196,Active
+Female,0,No,No,60,No,No,Fiber optic,Yes,Yes,No,No,Yes,No internet service,,Yes,Credit card,91.92,1,3,No,49-72,0,1,0.7120652835702308,High Risk
+Female,0,Yes,No,68,No,No,DSL,No internet service,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card,72.23,4,2,No,49-72,0,0,0.6120355393985464,High Risk
+Male,0,No,No,61,Yes,Yes,Fiber optic,No,No internet service,No,No,No,Yes,Month-to-month,No,Credit card,58.1,0,2,No,49-72,0,0,0.6536841505572997,High Risk
+Female,0,Yes,No,2,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Electronic check,62.85,2,1,No,0-6,0,1,0.6970093727714279,High Risk
+Female,0,Yes,Yes,64,Yes,No,No,No internet service,No,No,No,No internet service,Yes,Month-to-month,No,Credit card,69.75,2,3,No,49-72,0,0,0.5251877062860786,At Risk
+Male,0,Yes,No,55,Yes,No,DSL,Yes,No,Yes,Yes,No,No,One year,No,Electronic check,,0,3,No,49-72,0,0,0.27168708780100725,Active
+Male,0,Yes,Yes,65,Yes,No phone service,DSL,No,Yes,No,Yes,No,Yes,Month-to-month,No,Electronic check,24.48,1,6,No,49-72,0,0,0.34769835308587227,At Risk
+Female,0,No,No,15,No,No phone service,Fiber optic,No internet service,No,Yes,Yes,Yes,No,Month-to-month,Yes,Bank transfer,79.44,2,3,No,13-24,0,0,0.5743657607182692,At Risk
+Male,0,Yes,No,9,Yes,Yes,DSL,No,No,Yes,Yes,Yes,No internet service,Month-to-month,Yes,Credit card,83.94,1,5,No,7-12,0,0,0.4827879744222257,At Risk
+Female,0,Yes,Yes,13,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Two year,Yes,Electronic check,77.43,1,2,No,13-24,0,0,0.2748533510075619,Active
+Female,0,No,No,5,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer,68.06,0,5,No,0-6,0,0,0.7635594370728649,High Risk
+Female,0,No,Yes,19,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,No,Bank transfer,100.75,2,4,No,13-24,0,0,0.40985156593810673,At Risk
+Female,0,No,Yes,3,No,No,DSL,No internet service,Yes,No,Yes,Yes,No,Month-to-month,No,Bank transfer,72.47,2,2,No,0-6,0,1,0.8733867050290195,High Risk
+Male,0,Yes,No,30,Yes,No,DSL,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,70.46,2,6,No,25-48,0,0,0.4609066855406564,At Risk
+Female,0,No,No,61,Yes,No phone service,DSL,No,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,82.0,0,2,No,49-72,0,0,0.5899521695645438,At Risk
+Female,0,Yes,No,60,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,No internet service,One year,No,Electronic check,130.07,0,1,No,49-72,0,1,0.5538157467406364,At Risk
+Male,0,No,Yes,36,Yes,No,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,No,Bank transfer,106.06,2,6,No,25-48,0,0,0.39510463896185705,At Risk
+Female,0,Yes,No,70,Yes,No,Fiber optic,Yes,No,No,Yes,No,No,One year,Yes,Bank transfer,91.51,2,6,No,49-72,0,0,0.1972416459668711,Active
+Male,0,No,No,26,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Credit card,61.54,1,6,No,25-48,0,0,0.48385877643319475,At Risk
+Male,0,No,Yes,57,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,Two year,Yes,Electronic check,62.58,3,1,No,49-72,0,0,0.48506217095669796,At Risk
+Female,0,No,Yes,62,Yes,Yes,DSL,Yes,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,81.99,2,2,No,49-72,0,1,0.6416335607303484,High Risk
+Male,0,No,Yes,21,No,No,DSL,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,105.94,1,2,No,13-24,0,0,0.6873342243091551,High Risk
+Male,0,No,Yes,21,Yes,No,DSL,Yes,Yes,No,Yes,Yes,No,Month-to-month,Yes,Credit card,82.24,1,4,No,13-24,0,0,0.40626620342080083,At Risk
+Female,0,No,Yes,32,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,76.06,2,1,No,25-48,0,0,0.6590138870416151,High Risk
+Female,0,Yes,No,29,Yes,No,DSL,Yes,Yes,No,Yes,Yes,No,Two year,Yes,Bank transfer,73.01,3,6,No,25-48,0,0,0.10359473149586854,Active
+Male,1,Yes,No,29,Yes,No,DSL,No,Yes,No,No,Yes,No,One year,Yes,Bank transfer,115.25,2,2,Yes,25-48,0,0,0.4843097459370615,At Risk
+Male,0,No,Yes,17,Yes,No,No,Yes,No,Yes,Yes,No,No internet service,Month-to-month,Yes,Mailed check,58.06,2,5,No,13-24,0,0,0.27918236482444725,Active
+Female,0,Yes,No,66,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,One year,Yes,Bank transfer,96.91,1,4,No,49-72,0,0,0.20950598493462977,Active
+Male,0,No,No,30,Yes,Yes,No,No internet service,Yes,Yes,Yes,Yes,No,One year,Yes,Bank transfer,59.55,0,5,No,25-48,0,0,0.1793323573281081,Active
+Female,0,No,No,34,Yes,Yes,DSL,No internet service,No internet service,No internet service,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer,22.09,2,2,No,25-48,0,0,0.5259741883685587,At Risk
+Male,0,Yes,Yes,59,No,No,No,Yes,No internet service,No,No,No internet service,No,,No,Mailed check,43.35,1,6,No,49-72,0,0,0.328024981038833,At Risk
+Male,1,No,No,19,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,20.0,1,6,Yes,13-24,0,0,0.4784180173125011,At Risk
+Female,0,Yes,No,45,Yes,No,No,No internet service,Yes,No internet service,Yes,No internet service,Yes,One year,Yes,Electronic check,89.88,1,5,No,25-48,0,0,0.265641531098604,Active
+Female,0,No,No,5,Yes,No phone service,Fiber optic,No,No internet service,No,Yes,No,Yes,Month-to-month,No,Bank transfer,89.04,1,3,No,0-6,1,1,0.8475212847510312,High Risk
+Female,0,Yes,No,36,No,Yes,Fiber optic,No,No,Yes,Yes,No,Yes,Two year,Yes,Credit card,82.03,1,3,No,25-48,0,0,0.15568824494408887,Active
+Female,0,No,Yes,32,Yes,No,DSL,Yes,No,No,Yes,No internet service,Yes,,No,Bank transfer,40.2,1,6,No,25-48,0,0,0.22295749302613296,Active
+Male,0,No,Yes,31,Yes,No,DSL,No,No internet service,No,Yes,No,Yes,One year,Yes,Electronic check,80.87,3,3,No,25-48,0,0,0.39318221330773007,At Risk
+Male,0,Yes,No,64,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,No,Month-to-month,Yes,Credit card,69.11,0,6,No,49-72,0,0,0.3081925743606474,At Risk
+Female,0,Yes,No,23,Yes,Yes,Fiber optic,No internet service,No,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,74.65,1,1,No,13-24,0,0,0.6444373995151331,High Risk
+Male,0,Yes,Yes,14,Yes,No,No,Yes,No internet service,No,No,No internet service,No,One year,No,Electronic check,90.84,4,2,No,13-24,0,0,0.5507029091303703,At Risk
+Male,0,Yes,Yes,37,Yes,Yes,Fiber optic,No internet service,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Credit card,83.6,0,5,No,25-48,0,0,0.3632861319665015,At Risk
+Male,0,No,No,6,Yes,No,DSL,No internet service,No,No,No,No internet service,No,Month-to-month,Yes,Electronic check,105.05,2,2,No,0-6,1,1,0.9093230849647804,High Risk
+Female,0,Yes,No,4,Yes,Yes,No,No,No,No,Yes,No,Yes,Two year,Yes,Bank transfer,73.38,1,3,No,0-6,0,1,0.449478626243119,At Risk
+Male,0,Yes,No,6,Yes,Yes,DSL,No,No,No,Yes,Yes,Yes,Month-to-month,No,Credit card,102.9,1,2,No,0-6,1,1,0.8093550553244468,High Risk
+Female,1,Yes,No,38,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,No,Month-to-month,Yes,Mailed check,78.9,0,5,Yes,25-48,0,0,0.3970530136430705,At Risk
+Male,1,Yes,No,20,Yes,No,No,No,No,No,No,Yes,Yes,One year,Yes,Electronic check,79.16,1,2,Yes,13-24,0,0,0.5472557674574232,At Risk
+Female,0,No,Yes,35,Yes,No,Fiber optic,Yes,No,No internet service,Yes,Yes,No,One year,Yes,Bank transfer,104.35,3,3,No,25-48,0,1,0.37063557953259196,At Risk
+Female,0,Yes,No,0,No,No,No,Yes,Yes,No,No,No internet service,No,Two year,Yes,Bank transfer,52.38,0,5,No,0-6,0,0,0.4348764626466062,At Risk
+Female,0,Yes,No,72,No,No,DSL,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,57.09,0,5,No,49-72,0,0,0.3151515333965805,At Risk
+Male,0,Yes,No,10,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer,97.71,0,4,No,7-12,0,1,0.7343022609441074,High Risk
+Female,0,Yes,No,45,Yes,No,No,No,No internet service,Yes,No,Yes,No,Two year,No,Electronic check,94.67,3,3,No,25-48,0,1,0.3236313138050757,At Risk
+Female,0,No,No,53,Yes,No,DSL,No internet service,No,No internet service,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,74.63,0,1,No,49-72,0,0,0.5073790408689507,At Risk
+Female,0,No,Yes,48,Yes,Yes,DSL,Yes,No internet service,No,Yes,No internet service,No,Month-to-month,No,Mailed check,71.7,3,6,No,25-48,0,0,0.2518244144469306,Active
+Female,1,No,No,71,Yes,Yes,Fiber optic,No internet service,No,No,Yes,No,No internet service,Two year,No,Electronic check,104.67,0,6,Yes,49-72,0,1,0.226058577580506,Active
+Male,0,Yes,Yes,53,Yes,No,DSL,No,Yes,No internet service,Yes,No,Yes,Month-to-month,Yes,Mailed check,105.48,0,1,No,49-72,0,0,0.4664131478375897,At Risk
+Male,1,Yes,Yes,22,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Two year,Yes,Electronic check,86.4,1,4,Yes,13-24,0,0,0.19785919932992216,Active
+Male,0,Yes,No,53,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Mailed check,49.9,2,3,No,49-72,0,0,0.12098718654372279,Active
+Male,0,No,Yes,27,Yes,No,Fiber optic,No internet service,No,No,No,No,No,Two year,Yes,Electronic check,53.34,2,1,No,25-48,0,0,0.40251090601170936,At Risk
+Female,0,No,No,33,Yes,Yes,Fiber optic,No internet service,Yes,No,Yes,Yes,No internet service,One year,Yes,Bank transfer,106.5,3,4,No,25-48,0,0,0.385121707000692,At Risk
+Male,0,No,Yes,31,Yes,Yes,No,No,No,Yes,No,No,No,One year,Yes,Bank transfer,44.53,4,4,No,25-48,0,0,0.269490042560669,Active
+Male,0,No,Yes,26,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Bank transfer,88.1,2,1,No,25-48,0,1,0.6275501846251457,High Risk
+Female,0,No,Yes,53,Yes,No phone service,DSL,No,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,75.75,1,5,No,49-72,0,1,0.5333836038761333,At Risk
+Female,1,No,No,29,No,No phone service,Fiber optic,No internet service,No internet service,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer,94.3,1,6,Yes,25-48,0,0,0.6445760788587347,High Risk
+Female,0,Yes,No,71,Yes,No,Fiber optic,Yes,Yes,No,Yes,No internet service,No,One year,No,Bank transfer,93.4,1,5,No,49-72,0,0,0.20824685338143326,Active
+Female,0,No,No,36,Yes,No,No,Yes,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,53.14,0,3,No,25-48,0,1,0.4232439827461675,At Risk
+Male,0,No,Yes,53,Yes,Yes,No,Yes,No,No,No,No,Yes,,No,Credit card,63.01,1,1,No,49-72,0,0,0.6489262314726257,High Risk
+Female,0,No,Yes,42,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,No,Month-to-month,Yes,Credit card,99.77,3,5,No,25-48,0,0,0.47655309558074366,At Risk
+Male,0,Yes,No,12,Yes,Yes,DSL,No,Yes,Yes,Yes,No,No,One year,No,Electronic check,66.21,1,2,No,7-12,0,0,0.4647159145803105,At Risk
+Male,1,No,No,8,Yes,Yes,DSL,Yes,No internet service,No,Yes,No internet service,No,Two year,No,Electronic check,101.55,1,3,Yes,7-12,0,0,0.44920008907109427,At Risk
+Female,0,Yes,No,11,Yes,No phone service,Fiber optic,No,No,No,Yes,Yes,No internet service,Month-to-month,Yes,Mailed check,77.79,0,3,No,7-12,0,0,0.5751073726710926,At Risk
+Male,0,No,Yes,28,Yes,No phone service,Fiber optic,No internet service,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card,98.43,4,3,No,25-48,0,0,0.7305902661718982,High Risk
+Female,0,No,No,16,Yes,No,DSL,Yes,No internet service,No internet service,No,No,No internet service,Month-to-month,Yes,Bank transfer,45.03,2,6,No,13-24,0,0,0.42622173180603307,At Risk
+Female,1,No,No,0,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,No,Credit card,104.88,2,5,Yes,0-6,1,1,0.8985647044816403,High Risk
+Female,0,No,No,3,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,No,Credit card,92.04,1,5,No,0-6,1,0,0.7835584679910609,High Risk
+Female,0,Yes,Yes,6,Yes,Yes,Fiber optic,Yes,No,No internet service,Yes,Yes,No,Month-to-month,Yes,Credit card,94.97,1,2,No,0-6,1,1,0.8426891283198008,High Risk
+Male,0,No,No,22,Yes,No phone service,DSL,No internet service,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,86.4,0,3,No,13-24,0,0,0.6009841500654297,High Risk
+Male,0,No,No,40,No,No phone service,Fiber optic,Yes,Yes,No,Yes,No,No,One year,Yes,Mailed check,87.73,2,1,No,25-48,0,0,0.4051039068905947,At Risk
+Male,0,Yes,Yes,39,Yes,Yes,No,Yes,No internet service,Yes,,Yes,Yes,Two year,No,Credit card,67.8,1,5,No,25-48,0,0,0.10905862007034013,Active
+Female,0,No,Yes,28,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,62.1,0,1,No,25-48,0,0,0.4688202771151063,At Risk
+Male,1,Yes,Yes,34,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer,47.26,2,1,Yes,25-48,0,0,0.2052449689140343,Active
+Male,0,No,No,49,Yes,No phone service,Fiber optic,No internet service,Yes,Yes,No,Yes,No,Two year,Yes,Credit card,,1,3,No,49-72,0,1,0.32295461704383616,At Risk
+Male,0,No,No,55,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,Yes,Month-to-month,No,Credit card,109.54,0,6,No,49-72,0,1,0.4566913505629406,At Risk
+Female,0,No,No,46,Yes,No,DSL,No,No,Yes,No,No internet service,No,Month-to-month,No,Bank transfer,104.67,0,6,No,25-48,0,0,0.27732547750998915,Active
+Male,0,Yes,Yes,52,Yes,No,No,Yes,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,101.0,3,5,No,49-72,0,0,0.6277994155482287,High Risk
+Male,0,No,No,41,Yes,Yes,Fiber optic,No,No,No internet service,No,Yes,No,,Yes,Mailed check,71.51,2,2,No,25-48,0,0,0.600641465094937,High Risk
+Female,0,No,No,25,Yes,No,No,No internet service,Yes,No,Yes,Yes,Yes,One year,Yes,Bank transfer,67.95,0,4,No,25-48,0,0,0.24242806682477464,Active
+Female,0,Yes,No,59,Yes,Yes,Fiber optic,No internet service,No internet service,No,Yes,No,No,Month-to-month,No,Bank transfer,74.53,0,2,No,49-72,0,0,0.5415389585441714,At Risk
+Male,0,Yes,No,41,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.08,1,2,No,25-48,0,0,0.6672252484426856,High Risk
+Male,0,Yes,No,68,Yes,No phone service,DSL,No,No internet service,Yes,Yes,No,Yes,Month-to-month,No,Electronic check,69.74,2,5,No,49-72,0,0,0.48444020329303855,At Risk
+Female,0,Yes,No,6,Yes,No,DSL,No,Yes,Yes,No,No,Yes,One year,No,Credit card,78.4,3,1,No,0-6,1,0,0.7531028662423093,High Risk
+Female,0,Yes,No,42,Yes,Yes,DSL,No,Yes,No,No,No,No,Two year,Yes,Credit card,57.24,2,1,No,25-48,0,0,0.21257263622813427,Active
+Female,0,No,No,25,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,No,Bank transfer,23.47,1,2,No,25-48,0,0,0.6180953522681085,High Risk
+Female,0,No,Yes,3,Yes,Yes,No,Yes,No internet service,No,Yes,Yes,No,Two year,Yes,Electronic check,111.62,0,3,No,0-6,1,0,0.5957021625921471,At Risk
+Male,0,Yes,Yes,72,Yes,No phone service,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,No,Electronic check,77.41,0,3,No,49-72,0,1,0.5806850020377514,At Risk
+Male,0,No,No,45,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card,112.2,0,1,No,25-48,0,0,0.231851657444315,Active
+Female,0,Yes,No,12,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card,100.34,1,1,No,7-12,0,0,0.8159963590007066,High Risk
+Female,0,No,Yes,51,Yes,No,DSL,Yes,No,No,Yes,Yes,No,Month-to-month,No,Electronic check,68.8,3,3,No,49-72,0,0,0.6111296186752729,High Risk
+Male,0,Yes,No,46,No,No,DSL,Yes,No,No internet service,No,No,No,Month-to-month,No,Electronic check,95.03,1,5,No,25-48,0,1,0.5429304028032899,At Risk
+Female,1,No,Yes,3,Yes,Yes,Fiber optic,No,No internet service,No,Yes,No,No,Month-to-month,No,Electronic check,112.88,2,4,Yes,0-6,1,1,0.9102974934589657,High Risk
+Female,0,No,No,31,Yes,Yes,DSL,Yes,Yes,No,Yes,No,Yes,Month-to-month,Yes,Credit card,67.76,1,4,No,25-48,0,0,0.4018019770524093,At Risk
+Female,0,Yes,Yes,14,Yes,No,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,No,Credit card,148.12,1,4,No,13-24,0,0,0.5993186333216708,At Risk
+Female,0,No,No,55,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Mailed check,58.4,1,6,No,49-72,0,0,0.33673567329847226,At Risk
+Male,1,Yes,Yes,3,Yes,Yes,DSL,No,No internet service,No internet service,Yes,No internet service,No,Month-to-month,Yes,Bank transfer,57.21,0,4,Yes,0-6,0,1,0.7641125616220155,High Risk
+Female,1,No,Yes,20,Yes,No,DSL,Yes,Yes,No,Yes,No internet service,No internet service,Month-to-month,Yes,Credit card,93.43,1,1,Yes,13-24,0,0,0.5801568806843292,At Risk
+Male,0,No,No,2,Yes,No phone service,Fiber optic,No,Yes,Yes,No,No,No,Two year,Yes,Bank transfer,70.97,1,5,No,0-6,0,0,0.5510103119494034,At Risk
+Female,0,No,No,33,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,86.3,2,2,No,25-48,0,1,0.769086426661409,High Risk
+Male,0,No,No,11,Yes,No,Fiber optic,No internet service,No,No internet service,Yes,No internet service,No,Month-to-month,No,Mailed check,41.43,1,3,No,7-12,0,1,0.5649718374897971,At Risk
+Male,0,Yes,No,23,Yes,No phone service,Fiber optic,Yes,Yes,No,No,Yes,Yes,One year,No,Bank transfer,131.86,2,1,No,13-24,0,0,0.6018742464657851,High Risk
+Male,0,No,No,24,Yes,No phone service,DSL,Yes,Yes,No,Yes,No,No,One year,No,Electronic check,69.82,0,2,No,13-24,0,0,0.35239875831061307,At Risk
+Female,0,No,No,57,Yes,No,DSL,No,No,No internet service,Yes,No,Yes,Month-to-month,Yes,Credit card,128.53,0,5,No,49-72,0,0,0.39558539616012356,At Risk
+Female,0,No,Yes,13,Yes,No,No,No,Yes,No internet service,Yes,No internet service,Yes,Month-to-month,Yes,Credit card,72.14,0,6,No,13-24,0,0,0.2818269279267816,Active
+Male,0,Yes,Yes,31,Yes,No,Fiber optic,No,No internet service,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,69.26,0,6,No,25-48,0,0,0.4950945968285255,At Risk
+Male,1,Yes,Yes,14,No,No,DSL,No,Yes,No,,No internet service,No,Month-to-month,No,Electronic check,80.98,1,5,Yes,13-24,0,0,0.47471133579400776,At Risk
+Male,0,Yes,No,3,Yes,Yes,No,No,Yes,No internet service,Yes,No internet service,Yes,Two year,Yes,Bank transfer,114.05,0,6,No,0-6,1,1,0.30106799145928353,At Risk
+Male,0,Yes,No,34,Yes,No,DSL,No,Yes,No,Yes,Yes,No internet service,Month-to-month,Yes,Bank transfer,53.37,1,6,No,25-48,0,0,0.27330513115612254,Active
+Male,1,Yes,Yes,20,Yes,No phone service,DSL,No internet service,Yes,No internet service,No,No,No,Two year,No,Bank transfer,76.97,0,4,Yes,13-24,0,0,0.1891946302708821,Active
+Male,1,No,No,52,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,No internet service,Two year,No,Electronic check,31.58,0,3,Yes,49-72,0,0,0.3758263949561125,At Risk
+Female,0,No,Yes,38,Yes,No,DSL,No,No,Yes,Yes,No,Yes,One year,Yes,Credit card,82.07,2,1,No,25-48,0,0,0.27397219374055726,Active
+Female,0,Yes,Yes,17,Yes,No,Fiber optic,No,No,Yes,Yes,No internet service,Yes,Month-to-month,No,Credit card,20.0,0,6,No,13-24,0,0,0.20066172583120112,Active
+Male,0,No,Yes,49,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer,58.73,0,3,No,49-72,0,0,0.45266086718752774,At Risk
+Female,0,No,No,16,Yes,No,No,No,No,No,Yes,No internet service,No internet service,One year,Yes,Electronic check,98.42,2,6,No,13-24,0,0,0.23753800555067592,Active
+Male,0,No,Yes,71,Yes,No phone service,Fiber optic,Yes,Yes,No,No,Yes,No,,No,Bank transfer,80.01,2,3,No,49-72,0,0,0.6733517932662487,High Risk
+Male,0,No,No,51,Yes,No,DSL,No internet service,No,No,Yes,Yes,Yes,Month-to-month,No,Electronic check,129.39,0,4,No,49-72,0,1,0.6076898034400875,High Risk
+Female,0,No,Yes,5,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Bank transfer,80.94,1,5,No,0-6,1,0,0.6826792488245146,High Risk
+Female,1,No,Yes,59,Yes,No,No,No,Yes,No,No,No internet service,No,Month-to-month,Yes,Mailed check,82.19,1,2,Yes,49-72,0,0,0.5734025759304118,At Risk
+Female,0,No,Yes,25,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,70.68,1,4,No,25-48,0,0,0.5557130657827873,At Risk
+Male,0,No,No,54,Yes,No,Fiber optic,No internet service,No,Yes,No,No internet service,Yes,Month-to-month,Yes,Bank transfer,71.46,2,4,No,49-72,0,1,0.5747583872044405,At Risk
+Female,0,No,No,5,Yes,No,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,62.75,1,4,No,0-6,0,1,0.8553794027877036,High Risk
+Female,0,Yes,Yes,52,Yes,Yes,No,No internet service,Yes,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer,109.48,0,4,No,49-72,0,0,0.5004192529759246,At Risk
+Female,0,No,No,47,Yes,No phone service,No,Yes,Yes,Yes,Yes,Yes,No,One year,Yes,Bank transfer,56.02,1,4,No,25-48,0,0,0.20867512497008203,Active
+Male,0,No,No,4,Yes,No,DSL,No,No,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,24.19,0,6,No,0-6,0,0,0.724395810148675,High Risk
+Male,0,Yes,No,2,Yes,Yes,DSL,No,No internet service,No,No,Yes,No,One year,No,Electronic check,108.92,3,3,No,0-6,1,1,0.82977717262925,High Risk
+Female,0,Yes,No,5,Yes,Yes,Fiber optic,Yes,No internet service,No,No,Yes,No,Two year,Yes,Mailed check,118.48,3,6,No,0-6,1,0,0.518698096868136,At Risk
+Female,0,No,Yes,33,Yes,No,No,Yes,No internet service,No,No,No,No,One year,Yes,Mailed check,51.36,1,6,No,25-48,0,0,0.16648827487543597,Active
+Male,1,Yes,No,39,Yes,Yes,DSL,No,Yes,No internet service,No,No,Yes,Month-to-month,Yes,Electronic check,86.61,2,5,Yes,25-48,0,0,0.6467018309894125,High Risk
+Female,0,No,Yes,36,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,105.52,0,6,No,25-48,0,0,0.21595764987005814,Active
+Male,0,No,No,68,Yes,No,Fiber optic,No,Yes,No,Yes,No internet service,Yes,Two year,Yes,Credit card,73.93,3,3,No,49-72,0,0,0.22210149798561224,Active
+Female,1,No,Yes,30,Yes,Yes,Fiber optic,Yes,No internet service,No,No,No,No,Month-to-month,Yes,Credit card,68.8,2,6,Yes,25-48,0,1,0.574415909051875,At Risk
+Female,0,No,No,46,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Month-to-month,No,Mailed check,76.8,0,1,No,25-48,0,1,0.39075439359046915,At Risk
+Male,0,Yes,No,4,Yes,No,Fiber optic,Yes,No internet service,No internet service,No,Yes,No internet service,Two year,No,Electronic check,86.79,3,2,No,0-6,1,0,0.8239446520585051,High Risk
+Male,0,No,No,56,Yes,No,Fiber optic,No internet service,Yes,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer,57.25,1,5,No,49-72,0,1,0.535604862341746,At Risk
+Female,0,Yes,Yes,10,Yes,Yes,DSL,No,No internet service,No,No,Yes,Yes,Two year,No,Credit card,79.98,1,6,No,7-12,0,0,0.2221059254233328,Active
+Male,0,Yes,No,40,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,No internet service,Month-to-month,No,Electronic check,57.08,4,1,No,25-48,0,0,0.8080914476421678,High Risk
+Male,0,Yes,No,10,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,No,Mailed check,48.14,2,5,No,7-12,0,1,0.43724599793821695,At Risk
+Male,0,Yes,No,55,Yes,No,DSL,Yes,No,No,No,Yes,No,Month-to-month,No,Mailed check,67.77,4,4,No,49-72,0,0,0.5104871085010689,At Risk
+Male,1,No,No,65,Yes,No,No,Yes,No,Yes,Yes,No internet service,No internet service,One year,Yes,Electronic check,112.82,1,3,Yes,49-72,0,0,0.43890715878213993,At Risk
+Male,0,Yes,No,64,Yes,No,DSL,No internet service,Yes,No,Yes,No,No,One year,No,Electronic check,70.26,2,3,No,49-72,0,0,0.3581926016155496,At Risk
+Male,0,Yes,No,71,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Credit card,59.81,2,5,No,49-72,0,0,0.4347712588260276,At Risk
+Male,1,No,No,45,Yes,No phone service,Fiber optic,No internet service,No,No,No,Yes,Yes,Month-to-month,Yes,Credit card,50.4,2,4,Yes,25-48,0,0,0.6796333725393281,High Risk
+Male,1,Yes,No,59,Yes,Yes,DSL,Yes,No,Yes,No,Yes,Yes,Two year,Yes,Credit card,60.93,0,1,Yes,49-72,0,0,0.2885271050822134,Active
+Male,0,No,Yes,15,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Mailed check,96.43,3,6,No,13-24,0,0,0.1225315035908965,Active
+Female,0,Yes,No,40,Yes,Yes,Fiber optic,No internet service,Yes,No internet service,No,Yes,Yes,Two year,No,Bank transfer,78.57,1,2,No,25-48,0,0,0.3065584864077531,At Risk
+Female,0,No,No,71,Yes,Yes,No,No internet service,No,Yes,No,Yes,No,Month-to-month,No,Bank transfer,72.95,5,1,No,49-72,0,0,0.733086284501795,High Risk
+Female,0,No,No,20,Yes,No,DSL,No,Yes,No,Yes,No,No internet service,One year,Yes,Electronic check,55.49,1,3,No,13-24,0,0,0.29467141244119416,Active
+Female,0,No,Yes,61,No,No,No,No,No,No,No,No,Yes,Two year,Yes,Bank transfer,20.0,3,2,No,49-72,0,0,0.2342595704598673,Active
+Female,1,Yes,Yes,64,No,Yes,DSL,No,Yes,No internet service,Yes,No internet service,No,Month-to-month,Yes,Bank transfer,80.18,3,3,Yes,49-72,0,0,0.5288527126309304,At Risk
+Female,0,No,No,45,Yes,Yes,DSL,Yes,No,No,Yes,Yes,No,One year,Yes,Electronic check,62.65,0,6,No,25-48,0,0,0.1795771448914192,Active
+Female,0,Yes,No,10,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Electronic check,70.56,0,1,No,7-12,0,0,0.4373109330650699,At Risk
+Male,0,Yes,No,27,Yes,Yes,DSL,No,No,Yes,No,No internet service,No,Month-to-month,Yes,Credit card,63.85,0,4,No,25-48,0,0,0.33110037670319425,At Risk
+Female,0,Yes,No,26,Yes,No,DSL,Yes,Yes,No,No,No internet service,No,,Yes,Credit card,98.0,1,4,No,25-48,0,1,0.4573760840272094,At Risk
+Male,0,No,No,34,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No internet service,No,Month-to-month,Yes,Bank transfer,62.68,1,1,No,25-48,0,0,0.5053653220075134,At Risk
+Female,1,No,No,70,No,No phone service,Fiber optic,Yes,No,No,Yes,Yes,No,Two year,Yes,Mailed check,29.48,2,1,Yes,49-72,0,0,0.2844303181797997,Active
+Male,0,Yes,No,35,Yes,Yes,No,Yes,Yes,No internet service,Yes,No,No,Month-to-month,Yes,Electronic check,83.23,2,6,No,25-48,0,0,0.46640337099462575,At Risk
+Female,0,Yes,Yes,38,Yes,No,No,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer,84.29,3,1,No,25-48,0,0,0.5452334757536513,At Risk
+Male,0,Yes,Yes,6,No,No,Fiber optic,No,No,Yes,No,No,Yes,Two year,Yes,Bank transfer,68.8,4,4,No,0-6,0,0,0.623655053055132,High Risk
+Male,0,No,No,49,Yes,No,DSL,No internet service,Yes,No internet service,No,No,Yes,Two year,No,Electronic check,55.08,1,6,No,49-72,0,0,0.22786478943698874,Active
+Female,0,Yes,No,35,Yes,No phone service,DSL,No,No internet service,No,No,No,Yes,One year,Yes,Electronic check,92.03,2,5,No,25-48,0,0,0.3770286139476129,At Risk
+Female,0,Yes,No,9,Yes,No,DSL,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,80.39,0,4,No,7-12,0,0,0.7174575547330665,High Risk
+Male,0,Yes,Yes,48,No,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,74.22,1,6,No,25-48,0,0,0.4229664024326276,At Risk
+Female,0,Yes,No,44,Yes,No,Fiber optic,No internet service,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,69.86,1,3,No,25-48,0,0,0.5951065500724576,At Risk
+Male,0,No,No,60,Yes,Yes,DSL,No internet service,No,No,Yes,No,No,,No,Credit card,75.87,1,6,No,49-72,0,0,0.32596942095929615,At Risk
+Female,0,No,No,7,Yes,No,DSL,Yes,No,No internet service,No,No,Yes,Two year,Yes,Electronic check,73.93,3,4,No,7-12,0,0,0.4578624205405562,At Risk
+Female,0,No,No,4,Yes,Yes,No,No,Yes,No,No,No,No,Two year,No,Bank transfer,97.76,1,2,No,0-6,1,0,0.5823134869365254,At Risk
+Male,1,No,Yes,61,Yes,Yes,Fiber optic,Yes,No,No,Yes,No,Yes,Two year,Yes,Electronic check,108.85,3,6,Yes,49-72,0,1,0.29983414977137735,Active
+Male,0,No,Yes,41,Yes,Yes,No,No,Yes,Yes,No,No,No internet service,Two year,Yes,Bank transfer,96.27,0,6,No,25-48,0,0,0.10362769558927946,Active
+Male,0,Yes,No,43,Yes,No,No,No,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer,66.34,0,1,No,25-48,0,1,0.5531292502213713,At Risk
+Female,0,Yes,No,56,Yes,No,Fiber optic,Yes,Yes,No internet service,Yes,No,Yes,Month-to-month,No,Bank transfer,57.24,0,3,No,49-72,0,0,0.49372814061677234,At Risk
+Male,0,No,No,22,Yes,No,Fiber optic,No internet service,Yes,Yes,Yes,Yes,No,Month-to-month,No,Bank transfer,76.74,0,6,No,13-24,0,0,0.36044679959839143,At Risk
+Female,1,Yes,No,40,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,Month-to-month,Yes,Credit card,56.93,0,1,Yes,25-48,0,1,0.6743560631604378,High Risk
+Female,0,No,Yes,58,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Two year,Yes,Mailed check,81.45,3,2,No,49-72,0,0,0.26476904629085213,Active
+Male,0,No,Yes,14,No,No,DSL,Yes,Yes,Yes,No,No internet service,Yes,Two year,No,Mailed check,66.91,1,2,No,13-24,0,0,0.16711224697580393,Active
+Female,0,Yes,No,54,No,Yes,DSL,Yes,No,No internet service,Yes,No,No,Month-to-month,Yes,Electronic check,50.13,1,5,No,49-72,0,0,0.4440453103576261,At Risk
+Male,1,Yes,Yes,29,Yes,Yes,Fiber optic,No,Yes,No internet service,No,Yes,No,Month-to-month,Yes,Electronic check,20.0,1,1,Yes,25-48,0,0,0.7735828915853072,High Risk
+Male,1,No,No,60,Yes,Yes,Fiber optic,No,No,No,No,No,No internet service,Month-to-month,Yes,Credit card,106.54,1,3,Yes,49-72,0,1,0.71166533275631,High Risk
+Male,1,No,No,68,No,Yes,No,Yes,No internet service,No internet service,No,No,Yes,Two year,No,Mailed check,90.56,1,5,Yes,49-72,0,0,0.24819196413418443,Active
+Female,0,Yes,No,32,Yes,No,Fiber optic,Yes,No,Yes,Yes,No internet service,Yes,Two year,Yes,Credit card,66.59,2,1,No,25-48,0,1,0.19977194400314735,Active
+Female,0,No,No,51,No,No,DSL,No,No internet service,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,101.87,0,3,No,49-72,0,1,0.5700431229972848,At Risk
+Male,0,No,No,72,Yes,No,No,No,Yes,No internet service,No,Yes,No,One year,No,Mailed check,82.91,1,6,No,49-72,0,0,0.2219360989112751,Active
+Female,0,Yes,No,1,Yes,No phone service,DSL,No,Yes,Yes,No,No internet service,Yes,One year,No,Bank transfer,91.65,2,5,No,0-6,1,1,0.5707527883967641,At Risk
+Female,1,No,No,41,Yes,Yes,No,No,Yes,Yes,Yes,No,No,One year,No,Bank transfer,68.86,1,1,Yes,25-48,0,0,0.33999263409002156,At Risk
+Male,0,Yes,Yes,55,Yes,Yes,Fiber optic,Yes,Yes,No internet service,Yes,No,Yes,Two year,Yes,Credit card,35.84,0,1,No,49-72,0,0,0.21507840483745294,Active
+Female,0,Yes,No,15,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,73.39,4,2,No,13-24,0,0,0.735239405293566,High Risk
+Female,1,No,No,70,Yes,No,No,No internet service,No internet service,Yes,No,No,Yes,Month-to-month,Yes,Credit card,53.22,0,4,Yes,49-72,0,1,0.5739084883021112,At Risk
+Male,0,No,Yes,42,Yes,No phone service,DSL,No,No internet service,No,Yes,No internet service,No internet service,Month-to-month,No,Bank transfer,67.2,0,6,No,25-48,0,0,0.24678452663639203,Active
+Male,0,No,No,68,Yes,Yes,Fiber optic,No,No internet service,Yes,Yes,No,No,Two year,Yes,Mailed check,93.98,2,5,No,49-72,0,1,0.12801734676151194,Active
+Male,0,No,No,45,Yes,No,Fiber optic,No internet service,Yes,No,Yes,No internet service,No,Month-to-month,No,Mailed check,61.9,0,3,No,25-48,0,1,0.3728276316929176,At Risk
+Male,0,Yes,No,55,Yes,Yes,DSL,Yes,No internet service,No,Yes,No,No,Month-to-month,Yes,Credit card,59.86,1,2,No,49-72,0,0,0.4925558427039906,At Risk
+Male,1,No,No,24,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Two year,Yes,Credit card,75.29,2,5,Yes,13-24,0,0,0.1515821146328239,Active
+Male,1,No,Yes,47,Yes,Yes,No,No,No,No internet service,No,No,Yes,Month-to-month,Yes,Mailed check,81.21,0,3,Yes,25-48,0,1,0.4954265150224113,At Risk
+Male,0,No,No,66,Yes,No,DSL,No internet service,No,Yes,No,No,No,Month-to-month,Yes,Bank transfer,89.88,0,2,No,49-72,0,1,0.5307543790679873,At Risk
+Female,1,Yes,No,28,Yes,No,DSL,No internet service,No,No internet service,No,Yes,Yes,Two year,Yes,Bank transfer,118.26,1,3,Yes,25-48,0,0,0.2954257219134944,Active
+Male,0,No,Yes,5,Yes,No phone service,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,42.03,2,5,No,0-6,0,1,0.751191119431577,High Risk
+Female,0,Yes,No,69,Yes,No,DSL,Yes,No internet service,Yes,Yes,No,No,One year,No,Bank transfer,94.48,0,5,No,49-72,0,0,0.15778029353205297,Active
+Male,0,Yes,No,33,Yes,No,Fiber optic,Yes,No,No internet service,No,Yes,No,One year,Yes,Credit card,67.4,0,1,No,25-48,0,0,0.43747902169043945,At Risk
+Female,0,No,Yes,45,Yes,Yes,DSL,No,No,Yes,No,No,No,One year,Yes,Credit card,40.87,1,3,No,25-48,0,0,0.1986247724025979,Active
+Male,0,No,No,55,Yes,No phone service,DSL,No,No internet service,Yes,Yes,No,Yes,One year,No,Bank transfer,98.36,2,1,No,49-72,0,0,0.409228668177474,At Risk
+Female,0,Yes,Yes,21,Yes,No phone service,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,56.63,1,1,No,13-24,0,0,0.463294536401495,At Risk
+Female,0,No,No,11,Yes,No phone service,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,One year,Yes,Bank transfer,52.93,1,5,No,7-12,0,0,0.4150681364439611,At Risk
+Male,0,Yes,No,25,Yes,No,DSL,Yes,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,78.24,2,5,No,25-48,0,0,0.5720745423105791,At Risk
+Female,0,No,No,31,Yes,Yes,Fiber optic,No internet service,Yes,No internet service,No,No,Yes,Two year,Yes,Electronic check,138.4,0,4,No,25-48,0,0,0.379247833826824,At Risk
+Female,0,Yes,No,38,Yes,Yes,No,Yes,Yes,No,Yes,No,No internet service,One year,Yes,Bank transfer,23.55,2,6,No,25-48,0,0,0.1368635716643161,Active
+Female,0,Yes,No,44,Yes,Yes,No,No,Yes,Yes,Yes,No,No internet service,Month-to-month,Yes,Electronic check,21.9,3,3,No,25-48,0,1,0.4878580649938344,At Risk
+Female,0,Yes,Yes,53,No,No,DSL,Yes,No,No,No,No,No internet service,Month-to-month,No,Mailed check,95.99,1,2,No,49-72,0,1,0.523654387031395,At Risk
+Female,0,No,No,3,Yes,Yes,Fiber optic,No,No,No,No,No,No,One year,No,Electronic check,55.52,2,2,No,0-6,0,1,0.8564548159373644,High Risk
+Female,0,Yes,No,56,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,No internet service,Two year,No,Mailed check,82.94,0,1,No,49-72,0,0,0.24391781832768197,Active
+Female,0,No,Yes,28,Yes,No,No,Yes,No internet service,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,45.25,2,3,No,25-48,0,0,0.5932436420529146,At Risk
+Female,0,Yes,No,44,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,No,One year,No,Bank transfer,27.21,1,5,No,25-48,0,0,0.16152703938938448,Active
+Male,0,No,No,8,Yes,No,Fiber optic,No,Yes,No,No,Yes,No internet service,Month-to-month,Yes,Electronic check,65.11,3,6,No,7-12,0,0,0.7970152981531134,High Risk
+Female,0,Yes,Yes,51,Yes,No,Fiber optic,No internet service,No internet service,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,71.81,0,3,No,49-72,0,1,0.6916051585125682,High Risk
+Male,0,No,Yes,48,Yes,No phone service,Fiber optic,Yes,No internet service,No internet service,No,No,Yes,Month-to-month,No,Electronic check,98.08,1,3,No,25-48,0,1,0.7570855668054133,High Risk
+Male,1,Yes,Yes,9,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,Month-to-month,No,Electronic check,48.19,3,3,Yes,7-12,0,1,0.7814173044461904,High Risk
+Male,0,Yes,No,13,Yes,No,No,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card,48.99,0,5,No,13-24,0,0,0.4203210645285398,At Risk
+Female,0,Yes,No,52,Yes,Yes,DSL,No,No,No,,Yes,No,Month-to-month,Yes,Bank transfer,90.19,1,2,No,49-72,0,1,0.4684228536319276,At Risk
+Male,0,No,No,0,Yes,Yes,Fiber optic,No,No internet service,Yes,Yes,No internet service,No internet service,Month-to-month,No,Bank transfer,117.32,2,2,No,0-6,1,1,0.8707471619950242,High Risk
+Female,0,No,No,14,No,No,Fiber optic,No internet service,Yes,Yes,Yes,No,No internet service,Two year,Yes,Electronic check,87.2,2,6,No,13-24,0,0,0.2160092772979854,Active
+Male,1,No,No,60,No,Yes,Fiber optic,Yes,No internet service,No,No,No,No,Two year,Yes,Credit card,83.81,1,3,Yes,49-72,0,0,0.40012207890988355,At Risk
+Male,0,Yes,No,43,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,One year,Yes,Electronic check,89.94,4,2,No,25-48,0,0,0.6303586858135122,High Risk
+Female,0,No,Yes,23,No,No,No,No,Yes,Yes,Yes,No,No,Month-to-month,No,Credit card,38.21,1,5,No,13-24,0,0,0.29502046033190504,Active
+Male,1,Yes,Yes,13,Yes,No,Fiber optic,No internet service,Yes,No,No,No,Yes,Month-to-month,Yes,Mailed check,77.34,3,5,Yes,13-24,0,0,0.5815857711375103,At Risk
+Female,0,No,No,28,No,Yes,DSL,No internet service,Yes,No,Yes,No,No,One year,Yes,Bank transfer,119.11,1,6,No,25-48,0,0,0.20177224351631884,Active
+Female,0,Yes,No,65,Yes,Yes,DSL,Yes,No,Yes,No,No,No,One year,Yes,Electronic check,29.57,2,4,No,49-72,0,0,0.29696863662715195,Active
+Female,0,No,No,33,Yes,No,Fiber optic,Yes,No internet service,Yes,Yes,No internet service,Yes,Two year,Yes,Bank transfer,72.9,2,6,No,25-48,0,0,0.11827534394695574,Active
+Female,0,Yes,No,33,Yes,No,DSL,No internet service,No internet service,Yes,Yes,No internet service,No,Two year,No,Bank transfer,54.32,0,3,No,25-48,0,0,0.09156062872780295,Active
+Male,1,No,Yes,59,Yes,No,Fiber optic,Yes,No,No internet service,Yes,No internet service,No,Month-to-month,Yes,Electronic check,70.72,0,5,Yes,49-72,0,0,0.5543422358366313,At Risk
+Male,0,Yes,No,71,Yes,No phone service,No,No,No,Yes,No,No,No,Month-to-month,No,Credit card,62.2,4,4,No,49-72,0,0,0.5281988490171189,At Risk
+Male,0,No,Yes,59,Yes,No,DSL,No,No,Yes,Yes,No internet service,No,Month-to-month,Yes,Bank transfer,55.81,2,5,No,49-72,0,0,0.2712833586883456,Active
+Male,0,No,Yes,33,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,Yes,Month-to-month,Yes,Credit card,64.82,1,4,No,25-48,0,0,0.5082634109040574,At Risk
+Male,1,Yes,No,2,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,No internet service,Month-to-month,Yes,Electronic check,121.82,1,1,Yes,0-6,1,0,0.9456358011463811,High Risk
+Male,0,Yes,Yes,16,Yes,No,DSL,No,No internet service,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer,54.06,2,1,No,13-24,0,0,0.5607705219264791,At Risk
+Male,0,No,Yes,5,Yes,No,Fiber optic,No,No,No,No,No,No,Two year,No,Bank transfer,43.7,1,6,No,0-6,0,0,0.42417704147887125,At Risk
+Female,0,No,No,3,Yes,No,Fiber optic,No internet service,No,No internet service,Yes,Yes,No internet service,Month-to-month,Yes,Bank transfer,98.56,1,1,No,0-6,1,1,0.895064836540979,High Risk
+Female,1,Yes,Yes,10,Yes,No,DSL,No,No,Yes,No,Yes,No,Month-to-month,No,Electronic check,73.01,1,3,Yes,7-12,0,1,0.7633375071724765,High Risk
+Male,0,Yes,No,70,Yes,No,DSL,No,No internet service,Yes,No,Yes,No,Two year,Yes,Electronic check,60.15,0,3,No,49-72,0,0,0.22825913314909604,Active
+Female,0,No,No,20,No,Yes,Fiber optic,No internet service,No,Yes,Yes,Yes,No,Month-to-month,No,Mailed check,89.67,0,3,No,13-24,0,0,0.4416115537736347,At Risk
+Female,0,No,Yes,32,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,No,One year,No,Electronic check,43.57,2,2,No,25-48,0,0,0.41859517647625805,At Risk
+Female,0,No,No,55,Yes,No phone service,DSL,No,Yes,Yes,Yes,No internet service,No internet service,Two year,No,Electronic check,75.68,1,6,No,49-72,0,0,0.12727346613838342,Active
+Male,0,Yes,Yes,27,Yes,No,DSL,No,No,No internet service,Yes,Yes,No,One year,Yes,Electronic check,66.3,0,5,No,25-48,0,0,0.1974313393960964,Active
+Female,0,No,No,40,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer,91.41,1,6,No,25-48,0,0,0.46661252498932637,At Risk
+Female,1,No,No,5,Yes,No,No,Yes,Yes,Yes,Yes,No internet service,No,One year,Yes,Mailed check,62.97,1,4,Yes,0-6,0,0,0.5859333235702563,At Risk
+Male,0,Yes,No,35,Yes,No phone service,DSL,No,No,No internet service,Yes,Yes,Yes,One year,Yes,Bank transfer,96.1,0,4,No,25-48,0,0,0.20527212103713952,Active
+Female,0,Yes,No,8,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,109.46,3,6,No,7-12,0,1,0.6079671793264181,High Risk
+Male,0,No,Yes,47,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,Yes,Two year,Yes,Mailed check,43.73,2,4,No,25-48,0,0,0.09933879840333683,Active
+Male,0,Yes,Yes,48,Yes,Yes,DSL,No,No,No,Yes,Yes,No,One year,Yes,Mailed check,71.82,4,2,No,25-48,0,0,0.2205742668461173,Active
+Male,0,Yes,No,67,Yes,No phone service,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,93.71,3,4,No,49-72,0,0,0.7021337418559309,High Risk
+Male,0,Yes,No,18,Yes,Yes,DSL,No,No,No,Yes,No,No,Month-to-month,No,Electronic check,90.53,1,4,No,13-24,0,0,0.4396313671974535,At Risk
+Female,0,No,Yes,47,Yes,No,No,Yes,No,No,Yes,No,Yes,Month-to-month,Yes,Credit card,81.45,0,2,No,25-48,0,0,0.43194811617283185,At Risk
+Female,0,No,No,19,Yes,Yes,DSL,Yes,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,80.39,0,2,No,13-24,0,0,0.6252498130133287,High Risk
+Female,1,Yes,Yes,70,Yes,No,Fiber optic,No,No internet service,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,99.55,0,2,Yes,49-72,0,1,0.6678718592281533,High Risk
+Female,0,Yes,No,65,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Two year,No,Electronic check,116.24,1,3,No,49-72,0,0,0.252951453330901,Active
+Female,0,No,No,59,Yes,Yes,Fiber optic,No,No,No internet service,Yes,Yes,Yes,Two year,Yes,Electronic check,45.46,0,5,No,49-72,0,0,0.18550362706227844,Active
+Female,0,No,No,15,Yes,No,DSL,No,No,No internet service,No,Yes,No,Month-to-month,Yes,Bank transfer,53.98,0,1,No,13-24,0,0,0.5474179602848094,At Risk
+Male,0,No,No,36,Yes,No,DSL,No internet service,Yes,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,79.6,0,3,No,25-48,0,0,0.5539516518234301,At Risk
+Male,0,Yes,Yes,54,Yes,No,No,No,No,Yes,No,Yes,Yes,Two year,Yes,Electronic check,68.34,3,5,No,49-72,0,0,0.24118286523836807,Active
+Male,0,No,Yes,65,No,No,No,Yes,No,No internet service,Yes,Yes,No,Month-to-month,No,Bank transfer,81.18,3,6,No,49-72,0,0,0.43963486352187325,At Risk
+Male,0,Yes,No,15,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer,114.67,0,2,No,13-24,0,0,0.5467480150246192,At Risk
+Female,0,No,No,70,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card,72.65,0,3,No,49-72,0,1,0.5634426221249669,At Risk
+Male,1,No,No,61,Yes,Yes,DSL,Yes,Yes,No internet service,Yes,No,Yes,Month-to-month,No,Electronic check,90.63,1,6,Yes,49-72,0,1,0.5777088235872084,At Risk
+Male,0,Yes,Yes,53,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,77.64,1,5,No,49-72,0,0,0.2986443560460317,Active
+Female,0,No,No,3,Yes,No,No,No,No internet service,No internet service,No,Yes,No internet service,One year,Yes,Electronic check,65.17,2,2,No,0-6,0,1,0.8860516079847764,High Risk
+Male,0,No,No,41,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer,72.96,1,2,No,25-48,0,0,0.32767249278226795,At Risk
+Female,0,No,No,21,Yes,Yes,Fiber optic,Yes,No,No,Yes,No,No,One year,No,Bank transfer,66.0,1,1,No,13-24,0,0,0.3341352315590545,At Risk
+Female,0,Yes,No,42,Yes,No,Fiber optic,No internet service,No,No,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,65.38,2,2,No,25-48,0,0,0.49208233007075314,At Risk
+Female,1,No,No,52,Yes,No,Fiber optic,No,No,No,Yes,No internet service,Yes,Month-to-month,Yes,Electronic check,56.56,1,5,Yes,49-72,0,0,0.5715238313881965,At Risk
+Female,0,No,No,37,No,No,No,No,No,No,Yes,Yes,Yes,Two year,Yes,Credit card,98.4,0,2,No,25-48,0,0,0.19155504513021934,Active
+Female,0,No,Yes,43,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,56.21,1,6,No,25-48,0,0,0.39652877397089004,At Risk
+Female,0,No,No,58,Yes,Yes,Fiber optic,Yes,No,No internet service,Yes,No,No internet service,One year,No,Bank transfer,66.13,0,6,No,49-72,0,0,0.19321129340981646,Active
+Female,0,No,No,9,Yes,No,Fiber optic,No,No internet service,No internet service,No,No internet service,Yes,One year,Yes,Electronic check,106.0,0,1,No,7-12,0,1,0.7525340750537931,High Risk
+Male,0,No,No,71,Yes,No,Fiber optic,No,No,Yes,Yes,No,No,Two year,Yes,Credit card,100.14,0,1,No,49-72,0,0,0.20856396705532557,Active
+Male,0,No,Yes,5,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Mailed check,27.16,0,5,No,0-6,0,1,0.6500884202250314,High Risk
+Female,0,No,Yes,56,Yes,No phone service,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Credit card,79.1,1,3,No,49-72,0,0,0.20741549616138044,Active
+Male,0,No,Yes,4,Yes,No,Fiber optic,No internet service,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,73.25,0,1,No,0-6,0,1,0.9469764238539466,High Risk
+Female,0,Yes,No,25,Yes,No,DSL,No internet service,Yes,No,Yes,No internet service,No,Month-to-month,No,Electronic check,95.78,1,2,No,25-48,0,1,0.5678685656392973,At Risk
+Male,0,No,Yes,39,No,Yes,Fiber optic,No,No internet service,No,Yes,No,No,Month-to-month,No,Credit card,107.76,0,6,No,25-48,0,0,0.3903739618504664,At Risk
+Male,0,Yes,Yes,17,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,One year,No,Electronic check,87.02,2,2,No,13-24,0,0,0.3960032140867171,At Risk
+Male,0,No,Yes,4,Yes,Yes,Fiber optic,No,Yes,No,Yes,No internet service,No,Month-to-month,Yes,Credit card,70.58,0,6,No,0-6,0,1,0.7128314002313547,High Risk
+Male,0,No,No,44,Yes,Yes,DSL,No,Yes,Yes,Yes,No,Yes,One year,No,Bank transfer,101.88,0,2,No,25-48,0,0,0.2410050109818188,Active
+Female,0,Yes,No,29,Yes,Yes,No,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,41.97,2,1,No,25-48,0,0,0.5731711928234434,At Risk
+Male,0,No,No,12,Yes,No phone service,Fiber optic,Yes,Yes,Yes,Yes,No internet service,No,Month-to-month,Yes,Bank transfer,55.92,1,6,No,7-12,0,0,0.5004686207784397,At Risk
+Male,0,Yes,No,28,Yes,Yes,Fiber optic,No,Yes,Yes,,No,No,Month-to-month,Yes,Electronic check,46.16,0,4,No,25-48,0,1,0.4517872835532245,At Risk
+Male,1,No,No,22,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer,63.09,0,1,Yes,13-24,0,1,0.5696961244146662,At Risk
+Female,1,Yes,No,51,No,No,Fiber optic,No,No,No,No,No internet service,Yes,Two year,Yes,Electronic check,93.33,1,6,Yes,49-72,0,0,0.2916998523903489,Active
+Female,0,Yes,Yes,56,Yes,Yes,No,No,Yes,No,Yes,Yes,No internet service,Two year,Yes,Electronic check,85.43,0,4,No,49-72,0,0,0.18063447632988763,Active
+Female,0,Yes,Yes,27,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,,No,Credit card,52.82,4,6,No,25-48,0,0,0.3804533179952461,At Risk
+Male,0,Yes,No,18,Yes,Yes,No,No,No,No,Yes,No,Yes,Month-to-month,No,Electronic check,39.15,0,1,No,13-24,0,0,0.5368549009477774,At Risk
+Male,0,No,No,7,Yes,No phone service,Fiber optic,Yes,No,No,Yes,No,No,Two year,No,Bank transfer,56.08,0,4,No,7-12,0,0,0.23705652518232362,Active
+Female,0,Yes,No,64,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,No,Month-to-month,Yes,Credit card,55.7,1,4,No,49-72,0,1,0.41572194547171715,At Risk
+Male,0,Yes,No,52,Yes,No,Fiber optic,No,Yes,No internet service,Yes,No internet service,Yes,Month-to-month,No,Bank transfer,67.69,1,2,No,49-72,0,0,0.5474618516394842,At Risk
+Male,0,Yes,No,46,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,69.41,3,3,No,25-48,0,0,0.6122489215318155,High Risk
+Male,0,No,No,3,Yes,No,No,No internet service,Yes,No,Yes,Yes,Yes,Month-to-month,No,Electronic check,,0,5,No,0-6,0,1,0.8661442211156315,High Risk
+Female,1,Yes,No,62,Yes,No,DSL,Yes,No,No,No,No,Yes,Month-to-month,No,Electronic check,62.31,1,5,Yes,49-72,0,0,0.5949027644897674,At Risk
+Male,1,No,Yes,21,Yes,Yes,DSL,No internet service,No,Yes,Yes,Yes,Yes,Month-to-month,No,Bank transfer,90.18,2,4,Yes,13-24,0,0,0.49274927655033296,At Risk
+Male,1,No,Yes,57,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,One year,Yes,Electronic check,94.66,0,1,Yes,49-72,0,0,0.5499328294749771,At Risk
+Male,1,Yes,No,42,Yes,No,DSL,Yes,No internet service,Yes,Yes,No,No,Two year,No,Bank transfer,69.19,2,4,Yes,25-48,0,1,0.1441277028948131,Active
+Male,0,Yes,No,0,Yes,No,Fiber optic,Yes,No,No internet service,No,No internet service,No internet service,One year,Yes,Electronic check,,1,1,No,0-6,0,0,0.8780052307597832,High Risk
+Female,0,Yes,No,54,Yes,Yes,Fiber optic,No,Yes,No,No,No,No internet service,One year,No,Credit card,88.83,1,3,No,49-72,0,0,0.40457613415408067,At Risk
+Male,0,No,No,1,Yes,Yes,DSL,Yes,No internet service,Yes,No,No,No internet service,Month-to-month,Yes,Electronic check,77.48,0,4,No,0-6,1,1,0.8622918077490175,High Risk
+Female,0,No,Yes,53,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,One year,No,Credit card,99.7,0,5,No,49-72,0,0,0.30392793544110025,At Risk
+Female,0,Yes,No,43,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Credit card,55.17,3,4,No,25-48,0,0,0.5295284430419234,At Risk
+Male,0,No,No,21,Yes,Yes,DSL,No internet service,No,No,Yes,No,Yes,Month-to-month,No,Electronic check,91.91,1,1,No,13-24,0,0,0.649688402416118,High Risk
+Male,0,Yes,No,68,Yes,No phone service,DSL,Yes,No,No internet service,No,Yes,No internet service,Month-to-month,Yes,Credit card,78.92,0,6,No,49-72,0,0,0.4159886183027053,At Risk
+Female,0,No,Yes,34,Yes,No,DSL,Yes,No internet service,No,Yes,No,No,One year,Yes,Electronic check,85.0,1,2,No,25-48,0,0,0.36958155436803075,At Risk
+Male,1,No,Yes,26,Yes,No,DSL,No internet service,Yes,No,No,No internet service,No,One year,No,Electronic check,87.76,2,1,Yes,25-48,0,1,0.604260247763725,High Risk
+Female,0,Yes,No,7,No,Yes,Fiber optic,Yes,No internet service,Yes,No,No,Yes,Month-to-month,Yes,Credit card,82.3,1,3,No,7-12,0,1,0.7786263139459597,High Risk
+Male,0,No,No,65,Yes,No,No,No internet service,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,82.47,2,4,No,49-72,0,1,0.6015969713297257,High Risk
+Female,0,No,No,54,Yes,No,DSL,No,No,No,Yes,No internet service,Yes,Month-to-month,Yes,Bank transfer,68.54,1,4,No,49-72,0,0,0.3504781507378629,At Risk
+Male,0,No,Yes,21,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer,59.62,2,5,No,13-24,0,0,0.46673620091531615,At Risk
+Female,0,No,No,45,Yes,Yes,Fiber optic,Yes,Yes,No internet service,Yes,Yes,Yes,One year,Yes,Bank transfer,40.05,3,6,No,25-48,0,0,0.24303095975728206,Active
+Male,0,No,No,61,No,Yes,Fiber optic,No,Yes,No,No,No,No internet service,One year,Yes,Credit card,88.56,2,6,No,49-72,0,0,0.3594802371034277,At Risk
+Male,0,No,No,62,Yes,No,No,No internet service,Yes,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,33.94,1,6,No,49-72,0,0,0.3988349859730317,At Risk
+Female,0,Yes,No,22,Yes,No phone service,No,No,No,Yes,Yes,No,Yes,Two year,Yes,Electronic check,100.66,2,5,No,13-24,0,0,0.15953981429505865,Active
+Male,0,No,No,52,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Credit card,91.77,1,4,No,49-72,0,1,0.5271901667783419,At Risk
+Female,0,No,Yes,58,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No internet service,No,Month-to-month,No,Credit card,76.59,0,4,No,49-72,0,0,0.37494012763108553,At Risk
+Female,0,Yes,Yes,38,No,Yes,Fiber optic,No,Yes,Yes,Yes,No,Yes,,Yes,Electronic check,102.18,0,3,No,25-48,0,1,0.5612084212673581,At Risk
+Male,1,Yes,Yes,16,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,74.74,1,6,Yes,13-24,0,0,0.1910800868061557,Active
+Female,0,No,No,39,Yes,Yes,DSL,No,No,Yes,No,Yes,No,Month-to-month,Yes,Mailed check,92.86,0,1,No,25-48,0,1,0.47967966499258263,At Risk
+Male,0,No,No,72,Yes,No,DSL,No internet service,No,Yes,Yes,No,Yes,Month-to-month,No,Electronic check,73.03,0,5,No,49-72,0,0,0.41687881273108446,At Risk
+Male,0,No,Yes,28,Yes,Yes,DSL,Yes,No,No internet service,No,No internet service,No internet service,Month-to-month,Yes,Bank transfer,77.6,0,5,No,25-48,0,0,0.3687354492428509,At Risk
+Male,0,Yes,Yes,19,Yes,Yes,No,Yes,No,No internet service,No,No,Yes,Month-to-month,Yes,Bank transfer,94.34,0,4,No,13-24,0,0,0.4551188423543126,At Risk
+Male,1,No,Yes,22,Yes,No,DSL,Yes,No internet service,Yes,Yes,Yes,Yes,Month-to-month,No,Electronic check,48.15,0,4,Yes,13-24,0,0,0.5393390041339633,At Risk
+Female,0,Yes,No,45,Yes,No,DSL,Yes,No internet service,Yes,No,Yes,No,Two year,No,Credit card,38.78,1,5,No,25-48,0,0,0.11381983012673161,Active
+Female,0,Yes,No,3,Yes,No phone service,Fiber optic,Yes,Yes,No,Yes,No internet service,Yes,Month-to-month,No,Electronic check,95.66,1,5,No,0-6,1,1,0.8400897828446777,High Risk
+Male,1,Yes,No,66,Yes,Yes,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Credit card,116.82,2,6,Yes,49-72,0,0,0.4744398354119685,At Risk
+Female,0,No,No,36,Yes,No phone service,DSL,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,71.63,1,1,No,25-48,0,1,0.6329240323033735,High Risk
+Female,0,Yes,No,65,Yes,Yes,Fiber optic,No internet service,Yes,Yes,Yes,Yes,No,Month-to-month,No,Electronic check,115.82,4,2,No,49-72,0,0,0.7750741039148682,High Risk
+Female,0,Yes,Yes,59,Yes,No phone service,DSL,No internet service,Yes,No,No,Yes,No,Month-to-month,Yes,Bank transfer,85.59,0,5,No,49-72,0,0,0.4384503019944498,At Risk
+Male,0,Yes,No,35,Yes,No,DSL,No internet service,Yes,No internet service,No,Yes,No,Month-to-month,Yes,Electronic check,99.51,1,5,No,25-48,0,1,0.5996683789377645,At Risk
+Female,1,No,No,40,Yes,Yes,Fiber optic,Yes,No,No,Yes,No,Yes,One year,No,Electronic check,72.65,3,4,Yes,25-48,0,0,0.4761532733275405,At Risk
+Male,0,No,No,55,Yes,No,No,No,Yes,Yes,No,Yes,No,Month-to-month,No,Electronic check,90.74,1,3,No,49-72,0,0,0.7000517009968811,High Risk
+Female,0,Yes,Yes,15,No,Yes,DSL,No,No,Yes,No,Yes,Yes,One year,Yes,Credit card,56.0,1,5,No,13-24,0,0,0.19751720105862125,Active
+Female,0,No,No,40,Yes,No,Fiber optic,Yes,No internet service,Yes,Yes,No,No internet service,One year,Yes,Bank transfer,76.36,1,5,No,25-48,0,0,0.22452815217231284,Active
+Female,0,Yes,No,19,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,No,Mailed check,33.5,1,2,No,13-24,0,1,0.4357351092754165,At Risk
+Female,1,No,No,8,Yes,No,DSL,No,No internet service,Yes,Yes,No,No,Month-to-month,No,Electronic check,78.41,0,3,Yes,7-12,0,1,0.7293206810279783,High Risk
+Female,0,No,No,36,Yes,No,DSL,No,No,Yes,Yes,Yes,No internet service,One year,Yes,Electronic check,60.66,1,2,No,25-48,0,0,0.3192575603939389,At Risk
+Male,0,Yes,No,0,Yes,Yes,No,Yes,No internet service,No internet service,No,Yes,Yes,Month-to-month,Yes,Bank transfer,96.34,0,1,No,0-6,1,0,0.9087546751513124,High Risk
+Female,0,No,Yes,65,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No internet service,One year,Yes,Bank transfer,90.61,1,3,No,49-72,0,0,0.2765545770287089,Active
+Female,0,No,No,22,Yes,No phone service,Fiber optic,No,No internet service,Yes,No,Yes,Yes,Two year,No,Bank transfer,103.54,2,3,No,13-24,0,0,0.32075177840342173,At Risk
+Male,1,No,No,49,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,76.24,0,2,Yes,49-72,0,1,0.7830723634007257,High Risk
+Female,0,No,No,49,Yes,No,DSL,No internet service,No,Yes,No,Yes,No,One year,No,Electronic check,61.82,1,6,No,49-72,0,0,0.3066886037306949,At Risk
+Female,1,Yes,No,53,Yes,Yes,DSL,No internet service,Yes,No,No,No,Yes,Month-to-month,No,Electronic check,77.29,0,5,Yes,49-72,0,1,0.6297904080479244,High Risk
+Female,1,No,No,19,No,No phone service,No,No,No internet service,No,Yes,No internet service,Yes,Month-to-month,No,Electronic check,72.64,2,5,Yes,13-24,0,0,0.620321641475317,High Risk
+Female,0,Yes,No,41,Yes,No,No,Yes,Yes,No internet service,No,No,No,Two year,Yes,Electronic check,87.38,3,4,No,25-48,0,0,0.2948382227935186,Active
+Male,1,No,No,47,Yes,No,Fiber optic,Yes,Yes,No internet service,Yes,Yes,No,One year,Yes,Mailed check,100.07,0,6,Yes,25-48,0,0,0.23238405990237382,Active
+Male,0,Yes,Yes,43,Yes,Yes,DSL,No internet service,No,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card,60.95,2,5,No,25-48,0,0,0.33411504711174705,At Risk
+Male,0,No,Yes,48,Yes,Yes,DSL,Yes,Yes,Yes,No,No internet service,No,One year,No,Credit card,73.11,1,4,No,25-48,0,0,0.21321230935863797,Active
+Female,0,No,No,54,Yes,Yes,DSL,Yes,No internet service,Yes,Yes,No,Yes,Month-to-month,No,Mailed check,82.55,1,6,No,49-72,0,0,0.3013323232182557,At Risk
+Female,0,No,Yes,22,Yes,Yes,DSL,No,No internet service,No internet service,Yes,No internet service,No internet service,Month-to-month,Yes,Mailed check,33.57,0,5,No,13-24,0,0,0.20607107082041964,Active
+Female,0,Yes,No,23,Yes,No phone service,DSL,Yes,No internet service,Yes,Yes,No,No internet service,Month-to-month,No,Credit card,129.23,1,2,No,13-24,0,0,0.5306865555616304,At Risk
+Male,0,Yes,No,67,Yes,Yes,Fiber optic,No,No internet service,Yes,Yes,Yes,No internet service,Month-to-month,Yes,Credit card,87.94,1,1,No,49-72,0,0,0.629482409174437,High Risk
+Female,0,No,No,17,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Two year,Yes,Bank transfer,50.97,2,2,No,13-24,0,0,0.2924066052546499,Active
+Female,0,Yes,No,34,Yes,Yes,No,No,Yes,Yes,,No internet service,Yes,Month-to-month,Yes,Electronic check,73.92,0,6,No,25-48,0,0,0.32412582312745425,At Risk
+Male,0,No,Yes,52,Yes,No,Fiber optic,No internet service,No,No,Yes,No,No,Two year,Yes,Bank transfer,83.93,0,4,No,49-72,0,0,0.14653539547316327,Active
+Male,0,Yes,No,52,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,No,Two year,No,Bank transfer,102.74,1,3,No,49-72,0,0,0.19686780251550706,Active
+Male,1,No,No,61,Yes,No,Fiber optic,Yes,Yes,No internet service,Yes,No,Yes,Month-to-month,Yes,Bank transfer,73.96,0,6,Yes,49-72,0,1,0.48988814653641155,At Risk
+Male,1,Yes,No,58,Yes,Yes,DSL,Yes,No internet service,No internet service,Yes,No internet service,No,Month-to-month,Yes,Electronic check,92.03,1,2,Yes,49-72,0,0,0.6915030528963583,High Risk
+Female,0,Yes,No,6,Yes,No phone service,No,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Bank transfer,44.61,1,1,No,0-6,0,1,0.8508460864419384,High Risk
+Female,0,No,No,50,No,No,Fiber optic,Yes,Yes,Yes,No,No,No internet service,Month-to-month,Yes,Mailed check,108.43,1,4,No,49-72,0,0,0.5909665396033245,At Risk
+Female,0,No,Yes,18,No,No,Fiber optic,No,No,No internet service,No,Yes,No,Month-to-month,Yes,Credit card,20.0,1,4,No,13-24,0,0,0.5009891939406886,At Risk
+Female,0,Yes,No,27,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,No,Month-to-month,Yes,Bank transfer,67.98,1,6,No,25-48,0,0,0.3665207034884627,At Risk
+Female,0,No,No,55,Yes,No,Fiber optic,No,No,No,No,No internet service,No,Two year,Yes,Credit card,65.96,2,6,No,49-72,0,0,0.15026810010668146,Active
+Male,1,Yes,Yes,6,Yes,Yes,DSL,No,Yes,No,Yes,No,Yes,Two year,Yes,Bank transfer,20.0,1,5,Yes,0-6,0,0,0.36330518556748775,At Risk
+Male,0,Yes,No,29,Yes,Yes,DSL,No,No,No internet service,Yes,No,Yes,Two year,Yes,Electronic check,102.47,2,4,No,25-48,0,0,0.1939763899504342,Active
+Male,0,No,Yes,40,No,Yes,Fiber optic,No internet service,No,Yes,Yes,Yes,No,Two year,Yes,Electronic check,106.46,0,3,No,25-48,0,0,0.2554755638928242,Active
+Male,0,Yes,No,32,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Credit card,94.14,2,1,No,25-48,0,1,0.6708517085033741,High Risk
+Male,0,No,No,4,Yes,Yes,Fiber optic,No,Yes,No internet service,Yes,No internet service,No,Two year,Yes,Credit card,63.59,1,1,No,0-6,0,1,0.6288076479987507,High Risk
+Male,0,No,No,56,Yes,No,Fiber optic,Yes,No,Yes,No,No,Yes,Month-to-month,No,Bank transfer,68.53,2,4,No,49-72,0,0,0.5884059307742205,At Risk
+Female,0,No,Yes,42,No,No,No,No,No internet service,Yes,No,Yes,No,Month-to-month,Yes,Mailed check,86.4,1,5,No,25-48,0,0,0.4019999984784594,At Risk
+Female,0,No,No,13,No,No,DSL,Yes,No,Yes,No,Yes,No internet service,One year,Yes,Bank transfer,91.51,0,6,No,13-24,0,0,0.21287641305681568,Active
+Female,0,Yes,Yes,24,No,No,DSL,Yes,Yes,No,Yes,No,No,One year,Yes,Bank transfer,81.76,0,5,No,13-24,0,0,0.14125673564212493,Active
+Male,0,No,No,35,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer,63.53,3,4,No,25-48,0,0,0.43217072022631803,At Risk
+Male,0,No,No,27,Yes,Yes,Fiber optic,No,Yes,No internet service,Yes,No,Yes,Month-to-month,Yes,Electronic check,40.25,0,4,No,25-48,0,0,0.5394036399206678,At Risk
+Male,1,Yes,Yes,31,Yes,No,Fiber optic,No,No internet service,No internet service,No,No,No,Month-to-month,Yes,Credit card,114.67,1,2,Yes,25-48,0,1,0.7316397843664397,High Risk
+Female,0,Yes,No,57,Yes,Yes,No,Yes,No,No,Yes,Yes,No,One year,Yes,Electronic check,46.58,2,3,No,49-72,0,0,0.3540570958939402,At Risk
+Female,0,Yes,No,12,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,113.53,5,3,No,7-12,0,1,0.8357650753061043,High Risk
+Male,0,No,No,65,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Two year,No,Mailed check,63.86,2,4,No,49-72,0,1,0.17603727739721658,Active
+Male,0,No,No,15,Yes,No,Fiber optic,No,Yes,No,Yes,No,No internet service,Month-to-month,No,Electronic check,55.71,2,4,No,13-24,0,1,0.588351060994015,At Risk
+Male,1,Yes,No,33,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,76.94,1,5,Yes,25-48,0,0,0.6821506522218922,High Risk
+Female,0,No,Yes,42,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,No,Month-to-month,No,Electronic check,73.23,2,1,No,25-48,0,0,0.6925838242357408,High Risk
+Male,0,No,No,43,No,Yes,DSL,Yes,No,Yes,No,No internet service,Yes,One year,Yes,Electronic check,85.41,0,1,No,25-48,0,0,0.4484861299488874,At Risk
+Female,1,Yes,Yes,12,No,No phone service,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,63.65,0,3,Yes,7-12,0,0,0.8286129284231405,High Risk
+Female,0,Yes,No,42,Yes,No,No,No internet service,Yes,No internet service,No,Yes,Yes,Two year,No,Mailed check,95.91,1,3,No,25-48,0,0,0.2030288829138474,Active
+Male,0,No,Yes,1,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,One year,Yes,Electronic check,54.04,3,1,No,0-6,0,1,0.8649370378302981,High Risk
+Male,0,Yes,Yes,69,No,Yes,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,No,Credit card,51.91,0,3,No,49-72,0,0,0.37745922774249285,At Risk
+Female,0,No,No,66,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,No,Two year,No,Bank transfer,80.67,1,1,No,49-72,0,0,0.2241464181017203,Active
+Female,0,No,Yes,50,Yes,Yes,DSL,Yes,Yes,Yes,No,No,No internet service,Month-to-month,No,Electronic check,49.22,1,2,No,49-72,0,0,0.6549035228608684,High Risk
+Female,1,Yes,Yes,54,Yes,No phone service,No,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Electronic check,84.66,1,6,Yes,49-72,0,0,0.19964364666474832,Active
+Female,0,No,Yes,57,Yes,No phone service,No,Yes,No internet service,No internet service,Yes,Yes,No internet service,Month-to-month,Yes,Electronic check,101.55,1,1,No,49-72,0,0,0.7679715595096596,High Risk
+Male,0,Yes,No,48,Yes,Yes,Fiber optic,Yes,Yes,No internet service,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer,78.59,0,3,No,25-48,0,1,0.49819805625007185,At Risk
+Male,0,Yes,No,64,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card,65.24,0,6,No,49-72,0,0,0.09380129192439798,Active
+Female,0,Yes,No,56,Yes,Yes,DSL,No internet service,No,No,No,No,No,Month-to-month,Yes,Electronic check,68.46,0,5,No,49-72,0,0,0.48766792663431263,At Risk
+Male,0,No,No,3,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,No,Credit card,92.41,1,5,No,0-6,1,0,0.8334475306822563,High Risk
+Female,0,Yes,Yes,61,Yes,Yes,DSL,Yes,No internet service,No,No,Yes,No,One year,Yes,Electronic check,58.83,2,4,No,49-72,0,0,0.4010705537800331,At Risk
+Male,0,No,No,66,Yes,No phone service,Fiber optic,Yes,No,No internet service,Yes,No,No internet service,One year,No,Mailed check,62.42,2,5,No,49-72,0,0,0.23522072742651465,Active
+Female,0,No,No,14,Yes,No,DSL,No,No internet service,Yes,No,No,No,Month-to-month,No,Credit card,48.63,1,6,No,13-24,0,0,0.34521939739866536,At Risk
+Male,1,No,Yes,53,No,No,No,Yes,No internet service,No internet service,No,No,Yes,Month-to-month,Yes,Bank transfer,116.84,0,6,Yes,49-72,0,0,0.6154449890926584,High Risk
+Female,0,Yes,No,67,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No internet service,Month-to-month,Yes,Electronic check,73.69,2,4,No,49-72,0,1,0.4990436154648684,At Risk
+Female,0,No,No,52,Yes,No,Fiber optic,No,Yes,No internet service,Yes,No,Yes,Month-to-month,Yes,Bank transfer,77.61,1,6,No,49-72,0,0,0.42584264881524914,At Risk
+Male,1,No,No,20,Yes,No phone service,No,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,No,Electronic check,35.61,3,1,Yes,13-24,0,0,0.7905569246377323,High Risk
+Female,1,Yes,Yes,71,Yes,Yes,No,Yes,Yes,No internet service,No,Yes,No,Month-to-month,Yes,Bank transfer,92.67,0,3,Yes,49-72,0,0,0.6155503133574233,High Risk
+Male,0,No,No,15,Yes,No phone service,DSL,No,Yes,No,Yes,No internet service,No,Month-to-month,Yes,Electronic check,106.31,2,5,No,13-24,0,0,0.49731423383435636,At Risk
+Male,0,Yes,No,46,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,116.49,3,1,No,25-48,0,0,0.8017903308199588,High Risk
+Male,0,Yes,Yes,22,No,Yes,Fiber optic,No,No internet service,No,Yes,Yes,No,Month-to-month,Yes,Credit card,105.26,2,1,No,13-24,0,0,0.6647750471432226,High Risk
+Female,0,No,No,23,Yes,Yes,Fiber optic,Yes,No internet service,No,No,No,Yes,Month-to-month,Yes,Electronic check,79.82,0,2,No,13-24,0,0,0.7421770895406488,High Risk
+Female,0,No,Yes,40,Yes,No,Fiber optic,No,No internet service,No,Yes,No internet service,No internet service,Month-to-month,No,Bank transfer,40.86,5,2,No,25-48,0,1,0.5763857650355448,At Risk
+Male,0,No,No,61,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Two year,No,Electronic check,82.71,2,4,No,49-72,0,0,0.3244901303815891,At Risk
+Female,1,No,No,70,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,,No,Electronic check,51.59,0,3,Yes,49-72,0,0,0.631429762352658,High Risk
+Male,0,No,No,30,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,No,Electronic check,51.29,2,6,No,25-48,0,0,0.3009474114623817,At Risk
+Male,0,No,Yes,11,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Electronic check,52.93,2,4,No,7-12,0,0,0.4835263362809178,At Risk
+Male,1,Yes,No,29,Yes,No,Fiber optic,No internet service,No,Yes,No,No internet service,No,One year,Yes,Credit card,20.0,3,4,Yes,25-48,0,0,0.3417859090628903,At Risk
+Male,0,Yes,No,20,Yes,No,DSL,Yes,Yes,No,Yes,No internet service,No,One year,No,Electronic check,75.86,1,5,No,13-24,0,0,0.2159681590016508,Active
+Male,0,Yes,No,32,No,Yes,No,No,No,No internet service,Yes,No internet service,No,Month-to-month,Yes,Bank transfer,79.55,1,6,No,25-48,0,0,0.28264781255826266,Active
+Male,0,Yes,No,14,Yes,Yes,No,Yes,No,No internet service,No,No,Yes,Month-to-month,Yes,Bank transfer,86.22,0,1,No,13-24,0,0,0.6090529592100522,High Risk
+Female,0,Yes,No,19,Yes,Yes,Fiber optic,No,Yes,No internet service,Yes,Yes,No,Month-to-month,Yes,Bank transfer,94.03,1,6,No,13-24,0,0,0.3807341676845937,At Risk
+Male,0,Yes,Yes,50,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,No,One year,No,Credit card,122.83,0,2,No,49-72,0,0,0.3202504100776459,At Risk
+Female,0,Yes,Yes,14,Yes,No phone service,Fiber optic,No,No internet service,Yes,No,No,Yes,One year,Yes,Credit card,108.39,1,2,No,13-24,0,0,0.4379846160087841,At Risk
+Female,0,No,No,29,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Electronic check,54.99,1,2,No,25-48,0,0,0.3210142210360793,At Risk
+Female,1,Yes,No,4,Yes,Yes,Fiber optic,Yes,No,Yes,No,No internet service,No,Month-to-month,No,Bank transfer,53.11,0,6,Yes,0-6,0,0,0.7848650696649115,High Risk
+Female,0,No,Yes,47,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,No internet service,Month-to-month,Yes,Credit card,106.73,1,1,No,25-48,0,0,0.6977287646791513,High Risk
+Male,0,Yes,Yes,50,Yes,No phone service,No,No,No,Yes,Yes,Yes,No internet service,Two year,Yes,Electronic check,100.89,0,3,No,49-72,0,0,0.21396762118537493,Active
+Male,0,Yes,Yes,44,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,No internet service,Month-to-month,Yes,Electronic check,88.53,2,4,No,25-48,0,0,0.6012200995249323,High Risk
+Male,0,Yes,No,5,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,Yes,One year,Yes,Credit card,58.4,1,5,No,0-6,0,0,0.5851010477294655,At Risk
+Male,0,Yes,No,5,Yes,Yes,DSL,Yes,No,No internet service,No,No,No,Month-to-month,No,Bank transfer,75.61,0,3,No,0-6,1,0,0.7872957658571822,High Risk
+Female,0,No,No,46,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,55.31,1,1,No,25-48,0,0,0.41602093246159494,At Risk
+Male,0,Yes,No,2,Yes,No phone service,DSL,No,Yes,No internet service,No,No,Yes,Month-to-month,Yes,Credit card,88.0,1,6,No,0-6,1,1,0.7688621505272072,High Risk
+Female,0,No,Yes,58,No,No,Fiber optic,Yes,Yes,No,Yes,No,No internet service,Month-to-month,Yes,Bank transfer,90.07,2,1,No,49-72,0,1,0.6791270580957284,High Risk
+Female,0,No,No,35,Yes,No,DSL,No,No internet service,No,Yes,No,Yes,Month-to-month,No,Electronic check,76.87,1,4,No,25-48,0,0,0.5087066139248053,At Risk
+Male,0,No,No,42,Yes,Yes,DSL,No,No,No,Yes,No,No,Month-to-month,No,Electronic check,57.31,1,3,No,25-48,0,0,0.46348993202285493,At Risk
+Male,1,No,No,40,No,Yes,Fiber optic,No,No,Yes,No,No internet service,No,Month-to-month,No,Credit card,46.13,0,3,Yes,25-48,0,0,0.5516338163843181,At Risk
+Male,1,Yes,No,32,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,One year,No,Electronic check,96.99,2,5,Yes,25-48,0,0,0.4045445468887753,At Risk
+Male,0,Yes,Yes,56,Yes,Yes,DSL,Yes,Yes,Yes,No,No,Yes,Two year,Yes,Credit card,20.0,0,2,No,49-72,0,0,0.15843832194105031,Active
+Female,0,No,No,51,Yes,No,No,No internet service,Yes,No internet service,Yes,No,No,Month-to-month,Yes,Credit card,102.25,1,1,No,49-72,0,0,0.6469233766510813,High Risk
+Male,0,Yes,No,24,Yes,No,DSL,No,No internet service,No,Yes,Yes,No,One year,Yes,Credit card,93.29,1,6,No,13-24,0,0,0.16366232315768833,Active
+Female,1,No,Yes,71,Yes,No,No,No,No,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,63.13,1,2,Yes,49-72,0,0,0.5934361710717486,At Risk
+Female,0,No,No,11,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Two year,Yes,Electronic check,44.86,2,3,No,7-12,0,0,0.4793604877837503,At Risk
+Male,1,No,Yes,39,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,Month-to-month,No,Bank transfer,63.5,1,3,Yes,25-48,0,0,0.5226483292471108,At Risk
+Male,0,No,No,35,Yes,Yes,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,55.24,1,5,No,25-48,0,0,0.3356368072116715,At Risk
+Male,0,No,Yes,65,Yes,No,Fiber optic,No,No internet service,No internet service,Yes,No,Yes,Month-to-month,No,Mailed check,101.65,1,3,No,49-72,0,0,0.5180679249184019,At Risk
+Male,0,No,No,69,Yes,No phone service,Fiber optic,Yes,No internet service,No internet service,No,No,Yes,One year,Yes,Credit card,71.25,1,2,No,49-72,0,1,0.5325529976120268,At Risk
+Female,1,Yes,Yes,37,Yes,Yes,DSL,No,Yes,No,Yes,Yes,No internet service,One year,No,Credit card,62.03,0,3,Yes,25-48,0,0,0.23697487327549924,Active
+Female,0,Yes,Yes,20,Yes,Yes,DSL,Yes,No,No internet service,Yes,No,No,Month-to-month,Yes,Electronic check,103.73,3,4,No,13-24,0,1,0.5183874643350109,At Risk
+Female,1,No,No,21,Yes,No,DSL,Yes,No,Yes,Yes,No internet service,No,Month-to-month,Yes,Bank transfer,68.58,1,3,Yes,13-24,0,0,0.4071547014435684,At Risk
+Male,0,Yes,Yes,18,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,One year,Yes,Mailed check,97.81,2,6,No,13-24,0,0,0.24352905667829947,Active
+Female,0,No,No,6,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,Two year,Yes,Bank transfer,55.4,0,1,No,0-6,0,0,0.546007035901284,At Risk
+Female,0,Yes,No,16,Yes,No,DSL,Yes,No internet service,Yes,Yes,No internet service,No internet service,Month-to-month,No,Electronic check,71.5,4,4,No,13-24,0,0,0.5345416506458706,At Risk
+Female,1,No,No,21,Yes,No phone service,No,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card,49.79,1,3,Yes,13-24,0,1,0.6196979302880683,High Risk
+Male,0,No,No,30,Yes,Yes,Fiber optic,No,No internet service,No,No,Yes,Yes,Month-to-month,No,Mailed check,55.06,0,6,No,25-48,0,0,0.4112599415038584,At Risk
+Female,1,Yes,Yes,57,Yes,Yes,DSL,Yes,No,No,No,Yes,No,One year,Yes,Bank transfer,83.9,0,5,Yes,49-72,0,0,0.2631991316922404,Active
+Male,0,No,Yes,51,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Bank transfer,34.04,2,6,No,49-72,0,1,0.380192682992525,At Risk
+Female,0,No,Yes,10,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,No,Mailed check,74.53,2,2,No,7-12,0,0,0.6740602367139956,High Risk
+Female,0,Yes,No,23,Yes,No,DSL,Yes,No internet service,No,No,Yes,No,Month-to-month,Yes,Bank transfer,91.54,2,5,No,13-24,0,0,0.4792917460041917,At Risk
+Male,0,No,Yes,19,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Bank transfer,93.6,1,3,No,13-24,0,1,0.17995060931501297,Active
+Female,0,Yes,No,72,Yes,No,No,No,No,No,No,Yes,No,One year,Yes,Electronic check,33.79,3,5,No,49-72,0,0,0.33127825851228004,At Risk
+Female,1,No,Yes,44,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,No,One year,Yes,Mailed check,20.0,0,2,Yes,25-48,0,0,0.20409415154754343,Active
+Male,1,No,No,46,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Credit card,55.81,1,4,Yes,25-48,0,0,0.3417026050728649,At Risk
+Female,0,No,No,26,Yes,No,No,Yes,Yes,No internet service,Yes,Yes,No,Month-to-month,Yes,Bank transfer,84.86,1,1,No,25-48,0,0,0.6046412322979622,High Risk
+Female,1,No,No,61,Yes,Yes,DSL,No,Yes,No internet service,Yes,Yes,No,Month-to-month,Yes,Bank transfer,104.93,0,4,Yes,49-72,0,0,0.5080756215785379,At Risk
+Male,0,Yes,No,46,Yes,Yes,DSL,No,Yes,Yes,No,No,No,Two year,Yes,Bank transfer,98.15,0,6,No,25-48,0,0,0.08388293172200739,Active
+Male,0,Yes,No,55,Yes,No phone service,Fiber optic,Yes,No,Yes,Yes,No,No,Month-to-month,No,Bank transfer,,1,4,No,49-72,0,0,0.4424222037158604,At Risk
+Male,0,No,Yes,70,Yes,No phone service,No,Yes,No internet service,Yes,Yes,No internet service,No internet service,Month-to-month,No,Electronic check,53.52,2,1,No,49-72,0,0,0.6629883347457617,High Risk
+Male,0,Yes,Yes,13,No,Yes,DSL,No internet service,Yes,No internet service,Yes,Yes,No,Month-to-month,Yes,Electronic check,91.96,0,1,No,13-24,0,0,0.657675977534968,High Risk
+Male,0,Yes,No,64,No,No,DSL,No,Yes,No,Yes,Yes,No,Month-to-month,No,Bank transfer,81.97,1,3,No,49-72,0,0,0.4635115646797858,At Risk
+Male,0,No,Yes,41,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,No internet service,One year,No,Bank transfer,70.99,0,1,No,25-48,0,0,0.3583390579292453,At Risk
+Male,0,Yes,No,37,Yes,Yes,No,No internet service,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,63.91,0,5,No,25-48,0,1,0.5379094145451012,At Risk
+Male,0,Yes,Yes,63,No,No phone service,Fiber optic,No internet service,No,Yes,No,No,No internet service,,No,Electronic check,36.91,0,6,No,49-72,0,0,0.5080875037634318,At Risk
+Male,0,Yes,No,25,Yes,Yes,Fiber optic,No internet service,No internet service,Yes,No,No,No,One year,No,Mailed check,100.25,2,4,No,25-48,0,0,0.33437030226767106,At Risk
+Female,0,No,No,29,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,68.03,3,1,No,25-48,0,1,0.7083968607422323,High Risk
+Female,1,No,Yes,14,Yes,Yes,DSL,No internet service,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,55.43,0,5,Yes,13-24,0,0,0.46527651425142946,At Risk
+Male,0,Yes,No,1,Yes,No,Fiber optic,Yes,No internet service,Yes,Yes,Yes,Yes,One year,No,Electronic check,69.24,1,3,No,0-6,0,1,0.8162122152376117,High Risk
+Male,0,No,Yes,64,Yes,No,Fiber optic,No,Yes,No internet service,No,No,Yes,Two year,No,Credit card,20.0,0,3,No,49-72,0,0,0.20340224979856406,Active
+Male,0,Yes,No,22,Yes,Yes,DSL,No internet service,No,Yes,No,Yes,Yes,One year,Yes,Mailed check,66.15,2,3,No,13-24,0,0,0.2579237624870691,Active
+Male,1,No,No,11,Yes,No,Fiber optic,Yes,No,No internet service,Yes,No internet service,No,Two year,No,Bank transfer,63.19,1,2,Yes,7-12,0,0,0.38261473221205117,At Risk
+Female,0,No,Yes,65,Yes,No,DSL,No,No,Yes,Yes,No,Yes,Month-to-month,No,Electronic check,43.4,1,6,No,49-72,0,0,0.3220054247802805,At Risk
+Male,0,Yes,No,52,Yes,Yes,DSL,No,No,No internet service,No,No internet service,No,Month-to-month,No,Electronic check,65.98,1,5,No,49-72,0,1,0.4933902855366087,At Risk
+Female,0,Yes,No,7,Yes,No,DSL,No internet service,Yes,Yes,Yes,No,No,Month-to-month,Yes,Credit card,103.87,0,6,No,7-12,0,0,0.438145604909382,At Risk
+Female,0,No,No,11,Yes,Yes,Fiber optic,Yes,No internet service,Yes,Yes,No,Yes,One year,No,Credit card,86.15,2,3,No,7-12,0,0,0.5339183091442445,At Risk
+Female,0,Yes,No,26,Yes,Yes,DSL,No,No,No internet service,Yes,No,Yes,Month-to-month,Yes,Mailed check,36.21,0,2,No,25-48,0,1,0.3079441530793297,At Risk
+Female,0,No,Yes,47,Yes,Yes,DSL,Yes,No,No internet service,No,Yes,No internet service,Month-to-month,Yes,Electronic check,65.95,0,5,No,25-48,0,0,0.489470384115962,At Risk
+Male,0,No,Yes,10,Yes,Yes,Fiber optic,No,No,No internet service,No,No internet service,No,Two year,No,Mailed check,33.55,2,4,No,7-12,0,0,0.23128397900900083,Active
+Female,0,No,No,22,No,No,No,Yes,Yes,No,Yes,No,No,Month-to-month,No,Electronic check,62.6,2,3,No,13-24,0,0,0.6041319201213641,High Risk
+Male,0,Yes,No,62,Yes,No,No,No internet service,Yes,No internet service,Yes,No internet service,No,One year,Yes,Bank transfer,58.69,0,2,No,49-72,0,0,0.25249735007844226,Active
+Female,0,Yes,No,23,Yes,No,Fiber optic,No internet service,Yes,Yes,No,No internet service,Yes,Month-to-month,Yes,Credit card,98.72,3,6,No,13-24,0,0,0.5007921505422216,At Risk
+Male,0,No,No,3,Yes,Yes,Fiber optic,No internet service,Yes,No,Yes,No,No,Month-to-month,No,Electronic check,93.92,0,6,No,0-6,1,1,0.8162076458649844,High Risk
+Female,1,No,Yes,3,No,No,No,No,No,Yes,No,No,Yes,One year,No,Credit card,127.79,0,6,Yes,0-6,1,0,0.6391809741754704,High Risk
+Female,0,Yes,No,38,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer,51.35,1,1,No,25-48,0,0,0.543708556767765,At Risk
+Male,0,No,No,48,Yes,No,Fiber optic,Yes,No internet service,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer,60.32,2,3,No,25-48,0,0,0.5464742904992507,At Risk
+Male,0,Yes,No,6,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,No,Month-to-month,No,Mailed check,87.66,0,2,No,0-6,1,0,0.7530450964740928,High Risk
+Female,0,No,No,5,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Month-to-month,Yes,Credit card,72.27,0,2,No,0-6,0,0,0.829489718231959,High Risk
+Female,0,Yes,No,39,No,Yes,DSL,Yes,No,No,Yes,No,Yes,Month-to-month,No,Bank transfer,70.32,1,2,No,25-48,0,0,0.4391846518707173,At Risk
+Male,1,Yes,Yes,62,No,Yes,DSL,Yes,No,No,Yes,No internet service,No internet service,Month-to-month,Yes,Electronic check,135.2,2,6,Yes,49-72,0,1,0.5501068442525507,At Risk
+Male,0,No,Yes,69,Yes,Yes,No,No,No,Yes,No,No internet service,Yes,Two year,No,Bank transfer,89.11,2,2,No,49-72,0,0,0.2140452452122638,Active
+Female,0,Yes,Yes,5,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Mailed check,67.73,3,3,No,0-6,0,0,0.8617041319507607,High Risk
+Male,0,Yes,No,32,Yes,Yes,Fiber optic,Yes,No internet service,No internet service,Yes,No,No,One year,No,Bank transfer,62.79,0,6,No,25-48,0,0,0.17932717746997076,Active
+Female,0,No,Yes,68,Yes,No,DSL,No,Yes,No,Yes,Yes,No internet service,Month-to-month,No,Bank transfer,76.6,1,3,No,49-72,0,1,0.4353019203397097,At Risk
+Male,1,Yes,No,23,Yes,No,No,Yes,Yes,Yes,No,No,No internet service,Month-to-month,Yes,Bank transfer,80.29,0,4,Yes,13-24,0,1,0.5148227882016249,At Risk
+Female,1,No,Yes,61,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Electronic check,64.85,3,5,Yes,49-72,0,0,0.250457082499443,Active
+Male,0,Yes,No,13,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Two year,Yes,Bank transfer,63.92,0,3,No,13-24,0,0,0.10476720950426173,Active
+Female,1,No,Yes,12,Yes,Yes,Fiber optic,Yes,No,No internet service,Yes,No,Yes,Month-to-month,Yes,Credit card,73.82,0,4,Yes,7-12,0,0,0.674444767561856,High Risk
+Female,0,No,Yes,62,No,No,Fiber optic,No,No,No,Yes,Yes,No internet service,Two year,No,Bank transfer,67.49,0,1,No,49-72,0,0,0.2257975274576142,Active
+Male,1,Yes,No,10,Yes,No,DSL,No,Yes,No internet service,No,No,No internet service,Two year,Yes,Electronic check,112.83,0,2,Yes,7-12,0,0,0.5534920415137056,At Risk
+Male,0,No,No,29,No,No,Fiber optic,No,Yes,No,No,Yes,No,Two year,No,Credit card,84.9,0,1,No,25-48,0,0,0.35057199334666755,At Risk
+Male,0,Yes,No,53,Yes,No,DSL,Yes,No,No,No,No,Yes,One year,Yes,Electronic check,52.12,1,3,No,49-72,0,0,0.39861682190037545,At Risk
+Female,1,Yes,Yes,44,Yes,No phone service,Fiber optic,Yes,Yes,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,95.86,2,3,Yes,25-48,0,1,0.6724318566748033,High Risk
+Female,0,Yes,Yes,20,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card,78.41,1,5,No,13-24,0,0,0.3988617356391106,At Risk
+Male,1,Yes,No,3,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,75.05,1,2,Yes,0-6,1,1,0.7807994251036875,High Risk
+Male,0,No,No,50,Yes,No,Fiber optic,No,No,Yes,,No internet service,Yes,One year,Yes,Bank transfer,51.04,2,1,No,49-72,0,0,0.35234472780891973,At Risk
+Male,1,Yes,No,15,No,Yes,No,No,No internet service,Yes,Yes,No,Yes,Month-to-month,No,Electronic check,105.9,0,3,Yes,13-24,0,0,0.6545753592916921,High Risk
+Male,0,No,No,17,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer,67.34,1,3,No,13-24,0,0,0.5931096475085602,At Risk
+Female,0,No,No,46,Yes,No phone service,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Bank transfer,,3,2,No,25-48,0,0,0.6663739997570278,High Risk
+Male,0,Yes,No,37,Yes,Yes,Fiber optic,No,No,Yes,No,No internet service,No internet service,One year,No,Bank transfer,93.8,1,3,No,25-48,0,0,0.29632839422508384,Active
+Male,0,No,No,13,Yes,Yes,DSL,No,No,No,Yes,No,No internet service,Month-to-month,Yes,Electronic check,121.43,3,1,No,13-24,0,1,0.7077201599953241,High Risk
+Female,0,Yes,Yes,12,Yes,No phone service,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,No,Electronic check,98.39,3,4,No,7-12,0,1,0.8590874679374338,High Risk
+Male,0,Yes,No,4,Yes,No,No,No,No,Yes,No,No internet service,No,One year,No,Bank transfer,88.25,1,2,No,0-6,1,1,0.6351747041328218,High Risk
+Female,0,Yes,Yes,54,Yes,No,Fiber optic,No internet service,Yes,Yes,No,Yes,No,Two year,No,Electronic check,78.54,1,5,No,49-72,0,0,0.264789845345395,Active
+Male,1,Yes,Yes,15,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,One year,No,Bank transfer,84.31,0,4,Yes,13-24,0,0,0.19948445602668546,Active
+Male,0,No,No,52,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,100.94,1,3,No,49-72,0,0,0.7141729669644712,High Risk
+Male,0,Yes,No,22,Yes,No phone service,DSL,Yes,Yes,Yes,No,No,No,Two year,Yes,Electronic check,126.52,0,2,No,13-24,0,0,0.30212703715617534,At Risk
+Male,0,No,No,69,No,No,No,No,No,Yes,Yes,Yes,Yes,Two year,No,Mailed check,60.23,0,4,No,49-72,0,0,0.09854535188405011,Active
+Male,0,No,No,59,Yes,No,DSL,No,No internet service,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,42.56,1,1,No,49-72,0,0,0.6504070447006846,High Risk
+Female,0,No,No,2,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,No internet service,One year,Yes,Electronic check,75.28,0,2,No,0-6,1,1,0.8192883540631408,High Risk
+Female,1,Yes,No,63,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,89.73,0,6,Yes,49-72,0,0,0.12372088429235793,Active
+Female,1,No,No,39,Yes,No,DSL,No,Yes,No,Yes,Yes,No,Month-to-month,No,Credit card,94.57,1,4,Yes,25-48,0,1,0.4862076419105172,At Risk
+Female,0,No,Yes,49,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No internet service,Month-to-month,No,Mailed check,76.24,1,5,No,49-72,0,0,0.46289229739148235,At Risk
+Female,0,No,Yes,0,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,No,Month-to-month,No,Electronic check,52.42,0,1,No,0-6,0,1,0.9328843359586987,High Risk
+Male,0,No,No,23,Yes,No,DSL,Yes,No,Yes,Yes,Yes,No,Month-to-month,No,Mailed check,90.04,1,3,No,13-24,0,0,0.362532313437899,At Risk
+Female,0,No,No,47,Yes,No,No,Yes,Yes,No,Yes,Yes,No internet service,Two year,No,Electronic check,76.38,1,4,No,25-48,0,0,0.20614843465445304,Active
+Male,0,Yes,Yes,7,No,Yes,DSL,Yes,No,Yes,Yes,Yes,No internet service,Two year,Yes,Credit card,94.28,2,3,No,7-12,0,1,0.2782884830942678,Active
+Male,0,No,No,27,Yes,No,DSL,Yes,No internet service,No,No,No,No,Two year,No,Electronic check,75.36,0,5,No,25-48,0,0,0.20799441000884,Active
+Female,0,Yes,No,42,Yes,Yes,DSL,No internet service,No,No,,Yes,Yes,One year,Yes,Credit card,113.71,1,5,No,25-48,0,0,0.1989891217041568,Active
+Male,0,Yes,No,68,Yes,No,Fiber optic,No internet service,No internet service,Yes,Yes,No internet service,No,Two year,No,Electronic check,50.73,1,3,No,49-72,0,0,0.21919817578937922,Active
+Male,0,Yes,No,33,Yes,No,DSL,No,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,111.71,0,5,No,25-48,0,0,0.41381098661784654,At Risk
+Male,1,Yes,No,71,Yes,No,Fiber optic,Yes,Yes,No,Yes,No internet service,Yes,Month-to-month,No,Bank transfer,43.93,4,4,Yes,49-72,0,0,0.576335536725493,At Risk
+Female,1,No,No,1,Yes,No,No,Yes,No,No,No,No,Yes,One year,Yes,Electronic check,41.1,1,5,Yes,0-6,0,1,0.794560560400322,High Risk
+Female,1,Yes,No,0,Yes,No,DSL,No,No internet service,No internet service,No,No internet service,Yes,Month-to-month,No,Bank transfer,130.46,3,3,Yes,0-6,1,1,0.9091913203510015,High Risk
+Male,0,No,Yes,46,Yes,No,Fiber optic,Yes,Yes,No,Yes,No internet service,Yes,Month-to-month,No,Bank transfer,68.5,1,6,No,25-48,0,0,0.3269038470589721,At Risk
+Female,1,No,Yes,69,No,Yes,No,Yes,No,Yes,Yes,Yes,No,Month-to-month,Yes,Mailed check,111.16,2,6,Yes,49-72,0,0,0.40712969601735377,At Risk
+Male,0,Yes,No,72,Yes,Yes,DSL,No,No,Yes,Yes,Yes,No internet service,Two year,No,Bank transfer,83.06,1,2,No,49-72,0,0,0.14178319286104074,Active
+Male,0,No,No,35,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,No,Bank transfer,113.68,1,2,No,25-48,0,0,0.4769427876538463,At Risk
+Female,0,Yes,No,16,Yes,Yes,Fiber optic,No,No internet service,No internet service,Yes,No,No,Month-to-month,Yes,Electronic check,94.08,1,6,No,13-24,0,0,0.49181937788184416,At Risk
+Female,0,No,Yes,5,Yes,Yes,Fiber optic,No,Yes,No,Yes,No internet service,No,Month-to-month,Yes,Bank transfer,61.27,1,3,No,0-6,0,0,0.8061305468542815,High Risk
+Female,0,Yes,No,16,Yes,Yes,No,No,No internet service,Yes,No,No internet service,No,Two year,No,Electronic check,63.38,2,4,No,13-24,0,0,0.21007200926866898,Active
+Female,0,Yes,No,30,Yes,No,No,No,Yes,Yes,No,Yes,No,One year,Yes,Electronic check,64.37,1,4,No,25-48,0,0,0.34687380383371824,At Risk
+Female,0,No,No,24,Yes,Yes,No,No internet service,No,No,Yes,No,Yes,Two year,Yes,Credit card,55.47,0,5,No,13-24,0,0,0.09174015128859042,Active
+Female,0,No,Yes,13,Yes,No,Fiber optic,No,No,No internet service,No,Yes,Yes,Month-to-month,No,Electronic check,73.54,0,4,No,13-24,0,1,0.6368606210084882,High Risk
+Female,0,No,Yes,21,Yes,No,Fiber optic,No internet service,Yes,No,Yes,No,No internet service,Month-to-month,No,Mailed check,72.75,1,3,No,13-24,0,0,0.4350715714599577,At Risk
+Male,0,No,Yes,22,Yes,No,DSL,Yes,No internet service,Yes,Yes,Yes,No internet service,,No,Electronic check,81.24,1,3,No,13-24,0,1,0.5652127838477837,At Risk
+Male,0,Yes,Yes,16,Yes,No,Fiber optic,Yes,No,No,Yes,No internet service,No internet service,Two year,Yes,Electronic check,111.24,1,5,No,13-24,0,0,0.1704598124937328,Active
+Male,0,No,No,30,Yes,No,Fiber optic,No internet service,Yes,Yes,Yes,Yes,Yes,One year,Yes,Credit card,89.38,3,2,No,25-48,0,0,0.46647968315715316,At Risk
+Male,1,Yes,No,28,Yes,No phone service,Fiber optic,Yes,No,Yes,No,Yes,No,One year,Yes,Credit card,79.24,1,6,Yes,25-48,0,0,0.33071227173083817,At Risk
+Male,1,Yes,No,22,Yes,No,DSL,No,No internet service,Yes,Yes,No,No,Month-to-month,No,Mailed check,68.89,3,6,Yes,13-24,0,1,0.3150095432505572,At Risk
+Male,0,Yes,Yes,62,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,No internet service,Month-to-month,Yes,Electronic check,37.69,1,6,No,49-72,0,0,0.41608730423352763,At Risk
+Male,0,No,No,30,Yes,Yes,Fiber optic,Yes,No internet service,Yes,No,No,No,Month-to-month,Yes,Mailed check,,3,6,No,25-48,0,0,0.4717529455907051,At Risk
